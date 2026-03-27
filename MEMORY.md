@@ -7,5 +7,10 @@
 - [personal/about_me.md](personal/about_me.md) — Presentación para desconocidos (ingeniero, negocios, impresoras 3D, vender, comprar en remate, leer personas)
 - [personal/memory_exercises.md](personal/memory_exercises.md) — Rutinas de memoria y observación (Sherlock, cartas, películas, braille, vocabulario)
 
+## docs/
+- [docs/schiller-catalogo.md](docs/schiller-catalogo.md) — Catálogo SCHILLER Latam: 10 categorías, ECG, espirometría, ergómetros, emergencias, rehabilitación cardiaca
+- [docs/hospiinnova-catalogo.md](docs/hospiinnova-catalogo.md) — Catálogo HOSPINNOVA 2026: 21 categorías equipos + 37 categorías accesorios/consumibles, 300+ productos, precios MXN/USD
+- [docs/guia-equipos-medicos.md](docs/guia-equipos-medicos.md) — Guía de estudio: 20 módulos, qué es cada equipo, variaciones, parámetros, qué vender a quién
+
 ## entertainment/
 - [entertainment/watchlist.md](entertainment/watchlist.md) — Películas y series por ver (18 películas + 6 series)
