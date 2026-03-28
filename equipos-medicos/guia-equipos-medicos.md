@@ -459,16 +459,17 @@ Una prueba de esfuerzo (ergometría) registra el ECG mientras el paciente hace e
 Los monitores de signos vitales son equipos que miden y muestran continuamente los parámetros vitales de un paciente hospitalizado. Son el "tablero" central de cualquier UCI, sala de operaciones o urgencia.
 
 **Parámetros que pueden medir:**
-| Parámetro | Símbolo | Qué es |
-|-----------|---------|--------|
-| Electrocardiógrafo | ECG | Ritmo y frecuencia cardíaca |
-| Oximetría | SpO2 | Saturación de oxígeno en sangre |
-| Presión arterial no invasiva | NIBP | Presión con brazalete |
-| Presión arterial invasiva | IBP | Presión con catéter en arteria |
-| Temperatura | Temp | Corporal (piel, esófago, rectal) |
-| Respiración | Resp | Frecuencia respiratoria |
-| CO2 exhalado | etCO2 | Capnografía — para intubación y ventilación |
-| Gasto cardíaco | CO | Con catéter de Swann-Ganz (especializado) |
+
+| Parámetro                    | Símbolo | Qué es                                      |
+| ---------------------------- | ------- | ------------------------------------------- |
+| Electrocardiógrafo           | ECG     | Ritmo y frecuencia cardíaca                 |
+| Oximetría                    | SpO2    | Saturación de oxígeno en sangre             |
+| Presión arterial no invasiva | NIBP    | Presión con brazalete                       |
+| Presión arterial invasiva    | IBP     | Presión con catéter en arteria              |
+| Temperatura                  | Temp    | Corporal (piel, esófago, rectal)            |
+| Respiración                  | Resp    | Frecuencia respiratoria                     |
+| CO2 exhalado                 | etCO2   | Capnografía — para intubación y ventilación |
+| Gasto cardíaco               | CO      | Con catéter de Swann-Ganz (especializado)   |
 
 ## Variaciones por gama
 
@@ -615,12 +616,13 @@ Un ventilador mecánico respira por el paciente cuando este no puede hacerlo por
 - En esta gama: Dräger tiene opciones más fuertes, pero Philips tiene soluciones
 
 **Philips Trilogy EV300**
-| Característica | Detalle |
-|---------------|---------|
-| Uso | UCI, hospital, transporte, domiciliario |
-| Modes | VCV, PVC, SIMV, BiPAP, CPAP, AVAPS |
-| Autonomía batería | Horas |
-| Conectividad | Puede integrarse con sistemas de monitoreo Philips |
+
+| Característica    | Detalle                                            |
+| ----------------- | -------------------------------------------------- |
+| Uso               | UCI, hospital, transporte, domiciliario            |
+| Modes             | VCV, PVC, SIMV, BiPAP, CPAP, AVAPS                 |
+| Autonomía batería | Horas                                              |
+| Conectividad      | Puede integrarse con sistemas de monitoreo Philips |
 
 ### Accesorios de ventilación (mucho consumible = venta recurrente)
 
@@ -678,12 +680,13 @@ Convierte medicamento líquido (broncodilatador, antibiótico) en partículas fi
 | **Nebulizador de malla ( vibrating mesh)** | Membrana con micro-perforaciones vibra        | Más eficiente, partículas más finas, $3,850 Aeroneb Pro |
 
 **Nebulizadores en catálogo (HOSPINNOVA):**
-| Producto | Marca | Precio |
-|----------|-------|--------|
-| Nebulizador jet básico | Varios | $245/caja |
-| Nebulizador jet pediátrico | Varios | $265/caja |
-| Nebulizador ultrasónico | Varios | $1,250/pieza |
-| **Aeroneb Pro X** | Aerogen | $3,850/pieza |
+
+| Producto                   | Marca   | Precio       |
+| -------------------------- | ------- | ------------ |
+| Nebulizador jet básico     | Varios  | $245/caja    |
+| Nebulizador jet pediátrico | Varios  | $265/caja    |
+| Nebulizador ultrasónico    | Varios  | $1,250/pieza |
+| **Aeroneb Pro X**          | Aerogen | $3,850/pieza |
 
 **Aeroneb Pro X** — Nebulizador de alta gama con tecnología de malla vibrante, se conecta directamente a circuitos de ventilador (ideal para UCI) o uso libre. 3-5x más eficiente que jet. Compatible con la mayoría de medicamentos nebulizables.
 
@@ -834,11 +837,12 @@ La electrosurgia usa corriente eléctrica de alta frecuencia para cortar y coagu
 La laparoscopía es cirugía de mínima invasión: se hacen incisiones pequeñas por donde se introduce una cámara (laparoscopio) y instrumentos. El paciente se recupera más rápido.
 
 **Equipos clave:**
-| Equipo | Función | Precio |
-|--------|---------|--------|
-| Instrumental laparoscópico básico (kit) | Pinzas, tijeras, separadores para laparoscopía | $12,500/kit |
-| Trocares (5-12mm) | Puertos de entrada para instrumentos y cámara | $2,850/pieza |
-| Grapadora laparoscópica | Para suturar/cortar dentro del abdomen | $8,500/pieza |
+
+| Equipo                                  | Función                                        | Precio       |
+| --------------------------------------- | ---------------------------------------------- | ------------ |
+| Instrumental laparoscópico básico (kit) | Pinzas, tijeras, separadores para laparoscopía | $12,500/kit  |
+| Trocares (5-12mm)                       | Puertos de entrada para instrumentos y cámara  | $2,850/pieza |
+| Grapadora laparoscópica                 | Para suturar/cortar dentro del abdomen         | $8,500/pieza |
 
 **Trocares:** Cilindros que se插入 en la pared abdominal. 5mm (para instrumentos) hasta 12mm (para cámara o grapadoras).
 
@@ -1046,14 +1050,15 @@ Material para cerrar heridas y tejido. Se clasifican por:
 - Monofilamento (una hebra) vs. Multifilamento (trenzada)
 
 **Marcas en catálogo:**
-| Marca | Tipo | Fabricante |
-|-------|------|-----------|
-| MAXB ORB | ? | — |
-| POLYSORB | Multifilamento absorbible | Covidien/Medtronic |
-| SOFSILK | Seda natural | Covidien |
-| SURGIPRO | Nylon no absorbible | Covidien |
-| VLOC | Absorbible con doble aguja | Covidien |
-| SYNETURE | ? | — |
+
+| Marca    | Tipo                       | Fabricante         |
+| -------- | -------------------------- | ------------------ |
+| MAXB ORB | ?                          | —                  |
+| POLYSORB | Multifilamento absorbible  | Covidien/Medtronic |
+| SOFSILK  | Seda natural               | Covidien           |
+| SURGIPRO | Nylon no absorbible        | Covidien           |
+| VLOC     | Absorbible con doble aguja | Covidien           |
+| SYNETURE | ?                          | —                  |
 
 ## Mallas quirúrgicas
 
