@@ -18,17 +18,34 @@ Un electrocardiógrafo registra la actividad eléctrica del corazón mediante el
 
 **¿Para qué sirve?**
 - Detectar arritmias ( fibrilación auricular, taquicardia, bradicardia)
+
+Fibrilación Auricular (FA):
+Es un ritmo cardíaco irregular y, a menudo, muy rápido. En lugar de que las cámaras superiores del corazón (aurículas) se contraigan de forma rítmica para bombear sangre a las inferiores, estas "tiemblan" o fibrilan de manera caótica. Al no bombear bien, la sangre puede estancarse y formar coágulos, lo que aumenta el riesgo de accidentes cerebrovasculares.
+
+Taquicardia:
+Se define simplemente como un ritmo cardíaco rápido, generalmente por encima de los 100 latidos por minuto en reposo. Es normal si estás haciendo ejercicio o bajo estrés, pero si ocurre sin razón aparente, puede significar que el sistema eléctrico está enviando señales demasiado rápido.
+
+Bradicardia:
+Es lo opuesto a la taquicardia: un ritmo cardíaco demasiado lento, usualmente por debajo de los 60 latidos por minuto en reposo.Es común y saludable en atletas de alto rendimiento. Sin embargo, si el corazón late tan lento que no envía suficiente oxígeno al cuerpo, puede causar desmayos o fatiga extrema.
+
+
+
 - Diagnosticar infartos agudos de miocardio
+
+El miocardio es, simplemente, el tejido muscular del corazón. Es la capa media y más gruesa de la pared cardíaca. A diferencia de otros músculos del cuerpo, este tiene características únicas:
+
+Dependencia de oxígeno: El miocardio necesita un suministro constante de sangre oxigenada a través de las arterias coronarias. Si una de estas arterias se tapa, una parte del miocardio empieza a morir; a esto se le llama infarto de miocardio.
+
 - Evaluar hipertrofia de cámaras cardíacas
 - Monitorear efecto de fármacos cardíacos
-- Evaluar术前 (antes de cirugías)
+- Evaluar (antes de cirugías)
 - Chequeos rutinarios
 
 ## Parámetros clave
 
 | Parámetro | Qué significa |
 |-----------|---------------|
-| **Derivaciones** | Puntos de medición en el cuerpo. 3 (básicas), 5, 6 o **12** (estándar diagnóstico completo) |
+| **Derivaciones** | Puntos de medición en el cuerpo. 3 (básicas), 5, 7 o **12** (estándar diagnóstico completo) |
 | **Frecuencia de muestreo** | Muestras por segundo. A mayor, más precisión. SCHILLER: 32,000 Hz (vs. 500-1,000 Hz estándar) |
 | **Interpretación automática** | Algoritmo que sugiere diagnóstico (ej: "FA probable", "IAM probable") |
 | **Conectividad** | USB, Wi-Fi, LAN para exportar y compartir estudios |
@@ -43,22 +60,57 @@ Un electrocardiógrafo registra la actividad eléctrica del corazón mediante el
 - Lee ritmo general, no detecta infartos con precisión
 - Ejemplos: equipos antiguos o de bajo costo
 
+Cibrado Rápido:
+Procedimiento para identificar amenazas inmediatas a la vida en cuestión de segundos, sin detenerse en un análisis exhaustivo de cada onda
+
 **2. Electrocardiógrafo estándar (12 derivaciones) — EL MÁS COMÚN**
 - El estándar de oro para diagnóstico cardiológico
 - Lee las 12 derivaciones simultáneamente
-- Detecta isquemia, infartos, hipertrofias
+- Detecta isquemia, infartos, hipertrofias.
+
+Isquemia:
+cuando oxígeno que llega al miocardio es insuficiente para cubrir sus necesidades. No es una muerte celular inmediata,eso sería el infarto, sino un estado de sufrimiento por hambre de oxígeno.
+
+Hipertrofía:
+Aumento del grosor de las paredes del corazón. Como cualquier músculo, si el corazón tiene que trabajar contra una resistencia alta, crece para compensar. La causa principal es La Hipertensión Arterial. Si la presión en las tuberías (arterias) es muy alta, el corazón debe hacer mucha más fuerza para bombear. Con el tiempo, las paredes se vuelven gruesas y rígidas. El problema es que aunque el músculo es más grande, no es más eficiente. Al ser más grueso, necesita más oxígeno (lo que puede causar isquemia) y tiene menos espacio interno para llenarse de sangre.
+
 - Ejemplos: **CARDIOVIT AT-102 G2** (SCHILLER), **TC50 PageWriter** (HOSPINNOVA/Philips)
+
+
 
 **3. Electrocardiógrafo con espirometría integrada**
 - Añade función pulmonar al mismo equipo
 - Ahorra espacio y dinero en consultorios
 - Ejemplo: **CARDIOVIT AT-1 G2 + SpiroScout** (SCHILLER)
+- Al estar combinados el equipo integrado permite detectar algo llamado Arritmia Sinusal Respiratoria: un fenómeno normal donde la frecuencia cardíaca aumenta ligeramente cuando inhalas y disminuye cuando exhalas. Si esta relación se pierde, puede indicar problemas en el sistema nervioso autónomo.
+
+
+Espirometría:
+Es una prueba que mide cuánto aire puedes inhalar y exhalar, y qué tan rápido puedes hacerlo. Su objetivo es evaluar la función mecánica de los pulmones.
+Mide dos parámetros críticos:
+FVC (Capacidad Vital Forzada): El volumen total de aire que puedes expulsar tras una inhalación profunda. (Capacidad del tanque).
+FEV1 (Volumen Espiratorio Forzado en 1 seg): Qué tanto de ese aire sale en el primer segundo. (Caudal o potencia de salida).
+
+
 
 **4. Electrocardiógrafo ergoespirométrico**
 - Combina ECG de esfuerzo + análisis de gases expirados
 - Mide VO2 máx, umbral ventilatorio
 - Para cardiología deportiva, preoperatorio, rehabilitación
 - Ejemplos: **CARDIOVIT CS-200 Excellence/Office** (SCHILLER)
+
+Ergoespirometría:
+analiza el intercambio de gases en tiempo real mientras el "motor" está trabajando al máximo. El paciente usa una máscara sellada conectada a un sensor de flujo y a analizadores de gas O2 y CO2.
+Consumo de Oxígeno: Cuánto combustible está quemando realmente el cuerpo.
+Producción de Dióxido de Carbono: El "humo" de escape que generan los músculos.  Lo más valioso de combinar ambos es encontrar el punto exacto donde el corazón ya no puede suministrar suficiente oxígeno y los músculos empiezan a "quemar" combustible sin aire (fermentación láctica).
+
+Sincronización: El equipo cruza los datos. Si el paciente llega a su límite de fatiga, el médico puede ver en la gráfica: "A los 145 latidos por minuto (ECG), sus pulmones ya no pudieron procesar más oxígeno (Espirómetro)".
+Diagnóstico de precisión: Permite saber si el limitante del rendimiento es el corazón (fallo de bomba), los pulmones (fallo de ventilación) o los músculos (fallo metabólico).
+Un ECG de esfuerzo tradicional puede decirte si hay un riesgo de infarto, pero la ergoespirometría te dice qué tan eficiente es el motor completo. Se usa mucho en:
+Atletas de alto rendimiento: Para optimizar sus zonas de entrenamiento.
+Pacientes con insuficiencia cardíaca: Para ver si califican para un trasplante.
+Cirugías de alto riesgo: Para saber si el cuerpo del paciente aguantará el estrés de la operación.
+
 
 **5. Electrocardiógrafo portátil / de bolsillo**
 - Para paramédicos, médicos generales, emergencias
@@ -69,7 +121,7 @@ Un electrocardiógrafo registra la actividad eléctrica del corazón mediante el
 - Adaptado para animales
 - Rangos de frecuencia cardíaca distintos (animales pequeños/medianos/grandes)
 - Ejemplo: **CARDIOVIT AT-1 G2** usado por Dr. Christian Valenzuela (veterinario cardiólogo, Guadalajara)
-
+ 
 ### Por marca/distribuidor
 
 **SCHILLER (5 modelos)**
