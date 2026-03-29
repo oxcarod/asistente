@@ -99,7 +99,7 @@
 **Paquete mínimo (MVP):** Mesas + sillas + carpa + comida + entretenimiento.
 
 **Diferenciador:**
-- **Excelentes contactos:** Red de proveedores confiables ya negociados (comida, entretenimiento,租赁).
+- **Excelentes contactos:** Red de proveedores confiables ya negociados (comida, entretenimiento, alquiler de equipo).
 - **Puntualidad:** Ejecución impecable en horarios y logística.
 - **Ideas novedosas:** Entretenimiento creativo y entretenido, no lo mismo de siempre.
 - **Accesible:** Opciones de entretenimiento buenas pero económicas para clientes con presupuesto ajustado.
@@ -110,3 +110,44 @@
 - Ganancias netas como indicador de eficiencia operativa.
 
 **Modelo:** Paquetes por evento con márgenes sobre costos de proveedores, eventualmente escalando a suscripción para clientes recurrentes (empresas, familias).
+
+---
+
+## 10. Revive — Marketplace Multicategoría con Restauración y Pickup a Domicilio
+
+**Descripción:** Plataforma que compra, recoge, restaura y revende artículos usados directamente al consumidor final. A diferencia de Reuse (que se enfoca en electrónicos y vende B2B a retailers), Revive es D2C, multicategoría y añade valor mediante restauración profesional antes de la reventa.
+
+**Inspiración:** Reuse (Chile) — levantó US$4.5M en 2024, US$30M en ingresos 2025, certificación B, opera en Chile/Perú/México. Mercado latinoamericano de reacondicionados <3% vs 20% en EE.UU./Europa — potencial de crecimiento 4-5x.
+
+**Categorías (por fase):**
+1. Electrónicos y electrodomésticos (like Reuse)
+2. Muebles (diferenciador clave — restauración de madera/tapicería)
+3. Autos viejos para modernizar/restaurar (fase con más capital)
+
+**Problema que resuelve:**
+- Vendedores: quieren deshacerse de objetos pero no saben cómo, dónde o a quién; el proceso es tedioso.
+- Compradores: quieren precio accesible pero desconfían de la calidad sin garantía ni prueba.
+- Ambos: falta de confianza, sin pickup, sin restauración de valor agregado.
+
+**Diferenciadores vs Reuse:**
+- **D2C (directo al consumidor):** No vende a retailers — vende directamente al usuario final. Más márgenes + mejor precio para el comprador.
+- **Multicategoría:** Muebles + electrónicos + electrodomésticos + autos (vs solo electrónicos).
+- **Restauración integrada:** Taller propio para restaurar muebles y equipos antes de revender — genera más valor por unidad.
+- **Pickup a domicilio:** Se recogen los artículos en la casa del vendedor, sin que tenga que moverse.
+- **Financiamiento a cuotas:** Opción de pago en mensualidades para el comprador.
+- **Trade-in personal:** Puedo dejar mi objeto usado como parte de pago de uno nuevo/reacondicionado.
+- **Garantía + prueba:** 12-13 meses de garantía + 30 días de prueba (como Reuse, pero en D2C).
+
+**Métricas de éxito:**
+- Margen por categoría ( electrónicos vs muebles vs autos).
+- Tiempo de rotación de inventario.
+- Satisfacción del vendedor (¿fue fácil?) y del comprador (¿la calidad corresponde?).
+- Ingresos netos y repetición de clientes.
+
+**Modelo:**
+- Compra directa al vendedor → restaura → vende al consumidor.
+- Márgenes sobre la diferencia entre precio de compra y precio de venta.
+- Financiamiento genera ingresos adicionales por intereses.
+- Trade-in como enganche para siguiente compra.
+
+**Expansión:** Colombia, fintech con seguros integrados, eventual expansión LATAM.
