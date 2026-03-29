@@ -1,7 +1,6 @@
 # Plan: $100,000 USD en Ganancias Netas
 
 > **Propósito:** Clarificar la ruta más directa y realista para generar $100K USD netos usando Beracah (fabricante/distribuidor de ~10,000 productos médicos) y LeWangs (tu empresa de representación comercial y propulsión de negocios médicos).
-S
 
 ---
 
