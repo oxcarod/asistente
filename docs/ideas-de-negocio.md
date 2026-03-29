@@ -78,3 +78,35 @@
 **Posicionamiento:** Exclusividad, статус, lujo. "Tu retrato como un príncipe de la realeza."
 
 **Modelo:** Venta directa de alta precio unitario, personalización total.
+
+---
+
+## 9. EventPro — Organización Integral de Eventos a Domicilio
+
+**Descripción:** Servicio de organización de eventos que va directamente al domicilio del cliente. Paquetes todo-en-uno incluyendo: mesa, sillas, carpa, comida y entretenimiento. El cliente recibe un evento coordinado sin tener que buscar y negociar con múltiples proveedores por su cuenta.
+
+**Problema que resuelve:**
+- Los clientes gastan tiempo excesivo buscando lugar, comida, entretenimiento, souvenirs y servicios.
+- Los costos pueden elevarse al negociar solos sin conocer el mercado.
+- La falta de coordinación entre proveedores genera quejas: alguien queda mal, comida mal servida, horarios desfasados de entretenimiento.
+- El estrés de organizar todo solo puede arruinar la experiencia del evento.
+
+**Modelo de expansión:**
+1. **Fase 1 (MVP):** Eventos a domicilio — se lleva todo al hogar del cliente.
+2. **Fase 2:** Renta de salones propios o asociados.
+3. **Fase 3:** Escalabilidad con infraestructura propia.
+
+**Paquete mínimo (MVP):** Mesas + sillas + carpa + comida + entretenimiento.
+
+**Diferenciador:**
+- **Excelentes contactos:** Red de proveedores confiables ya negociados (comida, entretenimiento,租赁).
+- **Puntualidad:** Ejecución impecable en horarios y logística.
+- **Ideas novedosas:** Entretenimiento creativo y entretenido, no lo mismo de siempre.
+- **Accesible:** Opciones de entretenimiento buenas pero económicas para clientes con presupuesto ajustado.
+
+**Métricas de éxito:**
+- Quejas/reclamaciones de clientes post-evento.
+- Encuestas de satisfacción al final del evento.
+- Ganancias netas como indicador de eficiencia operativa.
+
+**Modelo:** Paquetes por evento con márgenes sobre costos de proveedores, eventualmente escalando a suscripción para clientes recurrentes (empresas, familias).
