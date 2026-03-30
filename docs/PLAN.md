@@ -12,7 +12,7 @@
 
 | Módulo / Tarea | Completado | Siguiente sesión | Pendiente |
 |---|---|---|---|
-| Marcos Digitales con IA | Plan documentado en `docs/marcos-digitales.md` | Implementar bot IA, recopilar ejemplos visuales, definir nombre del negocio | Configurar WhatsApp Business, automatizar con Zapier/Make |
+| Marcos Digitales con IA | Plan documentado en `docs/negocios-proximos/marcos-digitales.md` | Implementar bot IA, recopilar ejemplos visuales, definir nombre del negocio | Configurar WhatsApp Business, automatizar con Zapier/Make |
 
 ---
 

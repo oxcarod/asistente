@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import PyPDF2; print\\(''PyPDF2 ok''\\)\")",
+      "Bash(python -c \"import pdfplumber; print\\(''pdfplumber ok''\\)\")",
+      "Bash(python -c \"import fitz; print\\(''fitz ok''\\)\")",
+      "Bash(pdftotext 'C:\\\\Users\\\\StarkO\\\\Documents\\\\projects\\\\asistente\\\\HOSPIINNOVA MARZO 2026.pdf' -)",
+      "Bash(\"C:\\\\Users\\\\StarkO\\\\Documents\\\\projects\\\\asistente\\\\hospiinnova-texto.txt\")"
+    ]
+  }
+}
