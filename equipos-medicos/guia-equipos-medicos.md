@@ -305,22 +305,87 @@ La espirometría mide cuánto aire pueden retener y expulsar los pulmones, y a q
 
 ## Parámetros clave (qué se mide)
 
-| Parámetro     | Qué significa                                                                  | Valor normal                    |
-| ------------- | ------------------------------------------------------------------------------ | ------------------------------- |
-| **FVC**       | Capacidad Vital Forzada — máximo aire que puedes exhalar tras inhalar profundo | Adulto: 4-5 litros              |
-| **FEV1**      | Volumen espiratorio forzado en 1 segundo — aire exhalado en el primer segundo  | 80-90% del predicho             |
-| **FEV1/FVC**  | Índice de Tiffeneau — ratio clave para distinguir EPOC vs. asma                | >0.70                           |
-| **PEF**       | Pico de flujo expiratorio — velocidad máxima de exhalación                     | 400-600 L/min                   |
-| **FEF25-75%** | Flujo medio — sensibilidad a obstrucción de vías pequeñas                      | 50-60% del predicho             |
-| **TLC**       | Capacidad Pulmonar Total — solo con pletismografía                             | Solo con cabina pletismográfica |
+| Parámetro     | Qué significa                                                                                                                                                                            | Valor normal                    |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **FVC**       | Capacidad Vital Forzada — máximo aire que puedes exhalar tras inhalar profundo                                                                                                           | Adulto: 4-5 litros              |
+| **FEV1**      | Volumen espiratorio forzado en 1 segundo — aire exhalado en el primer segundo                                                                                                            | 80-90% del predicho             |
+| **FEV1/FVC**  | Índice de Tiffeneau — ratio clave para distinguir EPOC vs. asma                                                                                                                          | >0.70                           |
+| **PEF**       | Pico de flujo expiratorio — velocidad máxima de exhalación                                                                                                                               | 400-600 L/min                   |
+| **FEF25-75%** | Flujo Espiratorio Forzado entre el 25% y el 75% de la Capacidad Vital Forzada (FVC), Es especialmente útil para detectar problemas en las vías respiratorias pequeñas (los bronquiolos). | 50-60% del predicho             |
+| **TLC**       | Capacidad Pulmonar Total — solo con pletismografía                                                                                                                                       | Solo con cabina pletismográfica |
 
 **Patrones diagnósticos:**
 
 - **Obstructivo:** FEV1/FVC bajo (asma, EPOC)
-- **Restrictivo:** FVC bajo con FEV1/FVC normal (fibrosis, cifoescoliosis)
+- **Restrictivo:** FVC bajo con FEV1/FVC normal (fibrosis -> condición en la que el tejido de los pulmones se cicatriza, se vuelve rígido y grueso. Esa cicatrización dificulta que el oxígeno pase a la sangre de forma eficiente., **cifoescoliosis** -> deformidad de la columna vertebral, puede causar un tipo de problema llamado Enfermedad pulmonar restrictiva)
 - **Mixto:** Ambos alterados
 
-## Variaciones de equipos
+### Notas:
+
+## Clasificación tipo “ingeniería del sistema”
+
+Si juntamos lo que ya viste:
+
+### 1. 🫁 **Fibrosis pulmonar**
+
+- Problema: **material del pulmón**
+- Tipo: restrictivo
+- Efecto: pulmón rígido (↓ compliance)
+
+---
+
+### 2. 🦴 **Cifoescoliosis**
+
+- Problema: **estructura (caja torácica)**
+- Tipo: restrictivo
+- Efecto: no se expande el tórax
+
+---
+
+### 3. 🌬️ **Asma**
+
+- Problema: **tuberías (bronquios)**
+- Tipo: obstructivo
+- Efecto: aire atrapado (dificultad para salir)
+
+---
+
+## ⚙️ Diferencia clave (muy importante)
+
+- **Restrictivo** → no entra suficiente aire
+- **Obstructivo (asma)** → el aire entra, pero **no sale bien**
+
+👉 Esto provoca algo clave en asma:  
+**hiperinsuflación** (el pulmón se queda “inflado”)
+
+## 🫁 ¿Qué es la pletismografía?
+
+La **Pletismografía corporal** mide:
+
+- **Capacidad pulmonar total (TLC)**
+- **Volumen residual (RV)** → aire que nunca puedes sacar
+- **Resistencia de las vías (Raw)**
+
+## 🧠 ¿Cómo funciona? (nivel ingeniería 🔧)
+
+Se basa en la **Ley de Boyle**:
+
+P1​V1​=P2​V2​
+
+👉 Cuando cambias la presión dentro de la cabina al respirar, se pueden calcular los volúmenes de aire dentro de tus pulmones.
+
+---
+
+## 🧪 ¿Por qué es tan importante?
+
+Porque permite diferenciar claramente:
+
+- 🔹 **Obstructivo (asma)** → aire atrapado
+- 🔹 **Restrictivo (fibrosis, cifoescoliosis)** → poco volumen total
+
+👉 Esto es CLAVE para diagnóstico correcto.
+
+## Variaciones en equipos de Espirometrías
 
 ### Espirómetro de mesa (laboratorio completo)
 
@@ -504,13 +569,14 @@ Los monitores de signos vitales son equipos que miden y muestran continuamente l
 ## Marcas en catálogo
 
 **Philips / HOSPINNOVA**
-| Modelo | Gama | Uso principal |
-|--------|------|--------------|
-| Efficia | Media | Salas generales, urgencias, recuperación |
-| IntelliVue | Alta | UCI, quirófano, UCI neonatal |
-| IntelliVue X2 | Alta (portátil) | Transporte, UCI móvil |
-| Expression MR400 | Especializada | Resonancia magnética |
-| Avalon FM20 | Especializada | Obstetricia/fetal |
+
+| Modelo           | Gama            | Uso principal                            |
+| ---------------- | --------------- | ---------------------------------------- |
+| Efficia          | Media           | Salas generales, urgencias, recuperación |
+| IntelliVue       | Alta            | UCI, quirófano, UCI neonatal             |
+| IntelliVue X2    | Alta (portátil) | Transporte, UCI móvil                    |
+| Expression MR400 | Especializada   | Resonancia magnética                     |
+| Avalon FM20      | Especializada   | Obstetricia/fetal                        |
 
 ## Guía rápida
 
@@ -532,7 +598,7 @@ La oximetría mide la saturación de oxígeno en la sangre (SpO2) de forma no in
 
 **¿Para qué sirve?**
 
-- Monitorear oxygenación durante cualquier procedimiento
+- Monitorear oxigenación durante cualquier procedimiento
 - Detectar hipoxia (oxígeno bajo en sangre)
 - Ajustar terapia de oxígeno
 - En neonatos: detectar cardiopatías congénitas (los bebés con cardiopatía ductus-dependiente desaturan)
@@ -1160,11 +1226,11 @@ Material para cerrar heridas y tejido. Se clasifican por:
 
 Antes de las categorías clínicas, debes saber que en México todo equipo médico se clasifica en tres clases según su nivel de riesgo:
 
-| Clase | Riesgo | Definición | Ejemplos |
-|---|---|---|---|
-| **Clase I** | Bajo riesgo | No penetran al cuerpo ni alteran su fisiología | Estetoscopios, baumanómetros, termómetros |
-| **Clase II** | Riesgo moderado | Pueden introducirse al cuerpo por menos de 30 días | Agujas, monitores, oxímetros, ecógrafos |
-| **Clase III** | Alto riesgo | Implantes o soporte vital permanente | Marcapasos, válvulas cardíacas, ventiladores de terapia intensiva |
+| Clase         | Riesgo          | Definición                                         | Ejemplos                                                          |
+| ------------- | --------------- | -------------------------------------------------- | ----------------------------------------------------------------- |
+| **Clase I**   | Bajo riesgo     | No penetran al cuerpo ni alteran su fisiología     | Estetoscopios, baumanómetros, termómetros                         |
+| **Clase II**  | Riesgo moderado | Pueden introducirse al cuerpo por menos de 30 días | Agujas, monitores, oxímetros, ecógrafos                           |
+| **Clase III** | Alto riesgo     | Implantes o soporte vital permanente               | Marcapasos, válvulas cardíacas, ventiladores de terapia intensiva |
 
 > **Nota para vendedores:** Conocer la clase del equipo te permite anticipar objeciones sobre regulación. Un equipo Clase III requiere registro sanitario más estricto y el cliente hospitalario lo sabe.
 
@@ -1182,30 +1248,33 @@ Utiliza radiación ionizante para generar imágenes de huesos, pulmones y órgan
 **Variaciones:**
 
 **Rayos X Fijo:**
+
 - Genera imágenes en salas especializadas con阺eas plomadas
 - Requiere instalación de plomo en paredes y suelo
 - Para hospitales con alto volumen de estudios
 - Ejemplo líder en México: **Carestream DRX-Compass** (Carestream) + Generador **Ecoray Orange 1060** — muy popular en hospitales públicos y privados por su robustez y precio accesible
 
 **Rayos X Móvil:**
+
 - Sistema sobre ruedas para realizar placas en cama a pacientes que no pueden trasladarse
 - Muy usado en urgencias, terapia intensiva y cirugía
 - Ejemplo: **Ecoray Mu-R1** o **Dragon X SP-Vet** (para urgencias veterinarias) — el "Dragon" es el portátil más vendido en México por su durabilidad y fácil reparación
 
 **Rayos X Portátil (Maletín):**
+
 - Equipos ligeros y compactos para uso en urgencias, zonas remotas o servicio a domicilio
 - Regulación más laxa en México (COFEPRIS) si se justifica como equipo portátil
 - Ejemplo: **Carestream Focus** — detector wireless compacto que cabe en un maletín
 
 **Equipos más vendidos en México — Rayos X:**
 
-| Equipo | Marca | Proveedor/Distribuidor | Notas |
-|---|---|---|---|
-| Generador de Alta Frecuencia | EcoRay Orange 1060 | Distribuidores nacionales | El más popular en México — robusto, fácil de reparar |
-| Portable DR | Carestream Focus | Carestream/Kodak | Wireless, compacto |
-| CR (Digitalizador) | Carestream Vita Flex CR | Casa Plarre | Marca más confiable en CR en México |
-| Equipo Portátil | Dragon X SP-Vet | Distribuidores vet | "Caballo de batalla" en México |
-| Mesa Radiológica | Nacional (fabricantes locales) | Talleres CDMX/GDL | Cubierta radiolúcida, precio accesible |
+| Equipo                       | Marca                          | Proveedor/Distribuidor    | Notas                                                |
+| ---------------------------- | ------------------------------ | ------------------------- | ---------------------------------------------------- |
+| Generador de Alta Frecuencia | EcoRay Orange 1060             | Distribuidores nacionales | El más popular en México — robusto, fácil de reparar |
+| Portable DR                  | Carestream Focus               | Carestream/Kodak          | Wireless, compacto                                   |
+| CR (Digitalizador)           | Carestream Vita Flex CR        | Casa Plarre               | Marca más confiable en CR en México                  |
+| Equipo Portátil              | Dragon X SP-Vet                | Distribuidores vet        | "Caballo de batalla" en México                       |
+| Mesa Radiológica             | Nacional (fabricantes locales) | Talleres CDMX/GDL         | Cubierta radiolúcida, precio accesible               |
 
 ---
 
@@ -1216,11 +1285,11 @@ Radiografía de baja dosis diseñada específicamente para la detección tempran
 
 **Equipos más vendidos en México:**
 
-| Equipo | Marca | Notas |
-|---|---|---|
-| Mamógrafo Digital | Hologic Selenia Dimensions | Estándar de oro en México — el más certificado por aseguradoras |
-| Mamógrafo Digital | GE Pristina | Buena alternativa con software de última generación |
-| Mamógrafo Analógico (base de datos) | Lorad | Todavía funciona en clínicas rurales |
+| Equipo                              | Marca                      | Notas                                                           |
+| ----------------------------------- | -------------------------- | --------------------------------------------------------------- |
+| Mamógrafo Digital                   | Hologic Selenia Dimensions | Estándar de oro en México — el más certificado por aseguradoras |
+| Mamógrafo Digital                   | GE Pristina                | Buena alternativa con software de última generación             |
+| Mamógrafo Analógico (base de datos) | Lorad                      | Todavía funciona en clínicas rurales                            |
 
 ---
 
@@ -1230,18 +1299,19 @@ Radiografía de baja dosis diseñada específicamente para la detección tempran
 Utiliza rayos X giratorios para crear cortes transversales detallados y reconstrucciones 3D de órganos. Detecta tumores, hemorragias, trombosis y enfermedades óseas.
 
 **En México:**
+
 - Alta demanda en hospitales privados y públicos
 - Requiere sala plomada y contrato de mantenimiento obligatorio
 - Scanner de 16, 32, 64 o 128 cortes
 
 **Equipos más vendidos en México:**
 
-| Equipo | Marca | Cortes | Notas |
-|---|---|---|---|
-| Revolution ACT | GE Healthcare | 16–64 | Muy usado en sector público por precio/calidad |
-| Alexion | Siemens | 16 | Fiabilidad alemana, popular en privados |
-| ScintCare | Mindray | 16–64 | Ganando terreno por precio agresivo y servicio en CDMX/GDL |
-| CT Go UP | Philips | 16 | Compacto para espacios reducidos |
+| Equipo         | Marca         | Cortes | Notas                                                      |
+| -------------- | ------------- | ------ | ---------------------------------------------------------- |
+| Revolution ACT | GE Healthcare | 16–64  | Muy usado en sector público por precio/calidad             |
+| Alexion        | Siemens       | 16     | Fiabilidad alemana, popular en privados                    |
+| ScintCare      | Mindray       | 16–64  | Ganando terreno por precio agresivo y servicio en CDMX/GDL |
+| CT Go UP       | Philips       | 16     | Compacto para espacios reducidos                           |
 
 ---
 
@@ -1251,18 +1321,19 @@ Utiliza rayos X giratorios para crear cortes transversales detallados y reconstr
 Emplea campos magnéticos y ondas de radio para obtener imágenes de alta resolución de tejidos blandos: cerebro, médula espinal, músculos, articulaciones, corazón.
 
 **En México:**
+
 - Equipo de mayor inversión (puede superar $10 millones MXN)
 - Requiere sala con jaula de Faraday y criógeno (helio líquido)
 - Demanda en aumento por detección de cáncer y neurociencias
 
 **Equipos más vendidos en México:**
 
-| Equipo | Marca | Notas |
-|---|---|---|
-| MAGNETOM | Siemens | Estándar de oro — el más solicitado por radiólogos |
-| SIGNA Artist | GE Healthcare | Muy buen software de post-procesamiento |
-| UHF 770 | Insightec | Para neurourgía (ultrasonido focalizado) — nicho pequeño pero valioso |
-| Open MR | Esaote | Para pacientes con claustrofobia — mercado niche |
+| Equipo       | Marca         | Notas                                                                 |
+| ------------ | ------------- | --------------------------------------------------------------------- |
+| MAGNETOM     | Siemens       | Estándar de oro — el más solicitado por radiólogos                    |
+| SIGNA Artist | GE Healthcare | Muy buen software de post-procesamiento                               |
+| UHF 770      | Insightec     | Para neurourgía (ultrasonido focalizado) — nicho pequeño pero valioso |
+| Open MR      | Esaote        | Para pacientes con claustrofobia — mercado niche                      |
 
 ---
 
@@ -1275,26 +1346,26 @@ Utiliza ondas sonoras de alta frecuencia para ver órganos y flujo sanguíneo en
 
 **Variaciones por transductor:**
 
-| Transductor | Frecuencia | Uso principal |
-|---|---|---|
-| Convexo | 2–5 MHz | Abdominal, obstétrico, pélvico |
-| Lineal | 7–15 MHz | Tiroides, vascular, tendones, músculos |
-| Sectorial | 1–5 MHz | Cardíaco, abdominal profundo |
-| Endocavitario | 5–9 MHz | Ginecología (transvaginal), urología (transrectal) |
-| Convexo | 3.5 MHz | Obstetricia fetal estándar |
+| Transductor   | Frecuencia | Uso principal                                      |
+| ------------- | ---------- | -------------------------------------------------- |
+| Convexo       | 2–5 MHz    | Abdominal, obstétrico, pélvico                     |
+| Lineal        | 7–15 MHz   | Tiroides, vascular, tendones, músculos             |
+| Sectorial     | 1–5 MHz    | Cardíaco, abdominal profundo                       |
+| Endocavitario | 5–9 MHz    | Ginecología (transvaginal), urología (transrectal) |
+| Convexo       | 3.5 MHz    | Obstetricia fetal estándar                         |
 
 **Equipos más vendidos en México:**
 
-| Gama | Marca / Modelo | Proveedor | Notas |
-|---|---|---|---|
-| Alta gama | Mindray DC-80 / DP-50 Expert | Distribuidores Mindray en MX | Doppler color, 4D, el más solicitado en privados |
-| Alta gama | GE Voluson P8 / S10 | GE Healthcare | El estándar en obstetricia de lujo |
-| Gama media | Chison ECO 6 / ECO 5 Expert | Distribuidores Chison MX | Mejor relación costo/imagen del mercado |
-| Gama media | Edan Acclarix G3 / G3 Plus | Edan MX | Muy buen precio, software intuitivo |
-| Portable | Mindray TE7 / M7 | Mindray | Para urgenciólogos, intensivistas, emergencias |
-| Portable | SonoSite Edge II | FUJIFILM | El portátil más confiable para médicos de terreno |
-| Bolsillo | GE Vscan Air | GE Healthcare | Sonda wireless doble cabezal — tendencia POCUS |
-| Bolsillo | Butterfly iQ | Butterfly | Sonda única para iPhone — muy popular en USA, crece en MX |
+| Gama       | Marca / Modelo               | Proveedor                    | Notas                                                     |
+| ---------- | ---------------------------- | ---------------------------- | --------------------------------------------------------- |
+| Alta gama  | Mindray DC-80 / DP-50 Expert | Distribuidores Mindray en MX | Doppler color, 4D, el más solicitado en privados          |
+| Alta gama  | GE Voluson P8 / S10          | GE Healthcare                | El estándar en obstetricia de lujo                        |
+| Gama media | Chison ECO 6 / ECO 5 Expert  | Distribuidores Chison MX     | Mejor relación costo/imagen del mercado                   |
+| Gama media | Edan Acclarix G3 / G3 Plus   | Edan MX                      | Muy buen precio, software intuitivo                       |
+| Portable   | Mindray TE7 / M7             | Mindray                      | Para urgenciólogos, intensivistas, emergencias            |
+| Portable   | SonoSite Edge II             | FUJIFILM                     | El portátil más confiable para médicos de terreno         |
+| Bolsillo   | GE Vscan Air                 | GE Healthcare                | Sonda wireless doble cabezal — tendencia POCUS            |
+| Bolsillo   | Butterfly iQ                 | Butterfly                    | Sonda única para iPhone — muy popular en USA, crece en MX |
 
 > **Tip de venta:** El transductor convexo de 4 MHz y el lineal de 7.5 MHz son los dos que más se venden. Si el cliente compra un solo equipo, esta configuración cubre el 80% de las necesidades.
 
@@ -1306,17 +1377,18 @@ Utiliza ondas sonoras de alta frecuencia para ver órganos y flujo sanguíneo en
 Equipo de rayos X en tiempo real utilizado dentro del quirófano para guiar cirugías vasculares, ortopédicas y de columna.
 
 **En México:**
+
 - Alta demanda en hospitales privados y sistemas de salud públicos
 - Equipos de플at panel (DR) superan en calidad a los de intensificador de imagen
 
 **Equipos más vendidos en México:**
 
-| Equipo | Marca | Notas |
-|---|---|---|
-| OEC Elite | GE Healthcare | Estándar de oro en México — el que más piden traumatólogos y urólogos |
-| Veradius Unity | Philips | Excelente imagen 3D para procedimientos complejos |
-| Zenition | Philips | Versión más moderna con tablet de control |
-| Flexiview | Ziehm | Popular en cirugía ortopédica de instituciones públicas |
+| Equipo         | Marca         | Notas                                                                 |
+| -------------- | ------------- | --------------------------------------------------------------------- |
+| OEC Elite      | GE Healthcare | Estándar de oro en México — el que más piden traumatólogos y urólogos |
+| Veradius Unity | Philips       | Excelente imagen 3D para procedimientos complejos                     |
+| Zenition       | Philips       | Versión más moderna con tablet de control                             |
+| Flexiview      | Ziehm         | Popular en cirugía ortopédica de instituciones públicas               |
 
 ---
 
@@ -1330,19 +1402,20 @@ Equipos destinados a la vigilancia constante de los parámetros fisiológicos de
 Muestra en tiempo real: frecuencia cardíaca (ECG), presión arterial (NIBP), saturación de oxígeno (SpO2) y temperatura.
 
 **Variaciones:**
+
 - **De pared:** Para consultorios y recepción
 - **De transporte:** Para ambulancias y traslados intrahospitalarios
 - **Central:** Varios monitores conectados a una pantalla en estación de enfermería
 
 **Equipos más vendidos en México:**
 
-| Gama | Marca / Modelo | Notas |
-|---|---|---|
-| Spot Check | Welch Allyn Connex Spot Monitor | El estándar en hospitales privados ABC, Ángeles — prestigious marca |
-| Transporte | Edan M3 | Compacto, batería de larga duración, precio accesible |
-| Gama media | Mindray uMEC 10 / iM8 | Muy popular en sector público y clínicas |
-| Alto flujo | Philips IntelliVue X3 | El más usado en terapia intensiva — integrable a central |
-| Costo-efectivo | Edan M3B | Versión simplificada para primer nivel |
+| Gama           | Marca / Modelo                  | Notas                                                               |
+| -------------- | ------------------------------- | ------------------------------------------------------------------- |
+| Spot Check     | Welch Allyn Connex Spot Monitor | El estándar en hospitales privados ABC, Ángeles — prestigious marca |
+| Transporte     | Edan M3                         | Compacto, batería de larga duración, precio accesible               |
+| Gama media     | Mindray uMEC 10 / iM8           | Muy popular en sector público y clínicas                            |
+| Alto flujo     | Philips IntelliVue X3           | El más usado en terapia intensiva — integrable a central            |
+| Costo-efectivo | Edan M3B                        | Versión simplificada para primer nivel                              |
 
 > **Tip de venta:** El monitor de signos vitales es probablemente el equipo más vendido en México por volumen. Está en cada rincón del hospital. La clave es el **consumible**: brazaletes de presión en todos los tamaños (neonato, infantil, pediátrico, adulto, obeso). Vende el monitor y suscríbelo a un contrato de brazaletes.
 
@@ -1354,11 +1427,11 @@ Muestra en tiempo real: frecuencia cardíaca (ECG), presión arterial (NIBP), sa
 
 **Equipos complementarios más vendidos en México:**
 
-| Equipo | Marca | Notas |
-|---|---|---|
-| MT-101 | Schiller | El más vendido en México — fácil de colocar, software intuitivo |
-| DigiTrak XT | Philips | Gran cobertura en sector público |
-| Holter SE-2003 | Edan | Opción económica con buena calidad de señal |
+| Equipo         | Marca    | Notas                                                           |
+| -------------- | -------- | --------------------------------------------------------------- |
+| MT-101         | Schiller | El más vendido en México — fácil de colocar, software intuitivo |
+| DigiTrak XT    | Philips  | Gran cobertura en sector público                                |
+| Holter SE-2003 | Edan     | Opción económica con buena calidad de señal                     |
 
 ---
 
@@ -1368,6 +1441,7 @@ Muestra en tiempo real: frecuencia cardíaca (ECG), presión arterial (NIBP), sa
 Mide la presión arterial sistólica y diastólica. Manual (aneroide) o automático (digital).
 
 **Variaciones:**
+
 - **Aneroide:** Manómetro de reloj con pera de inflado. Requiere estetoscopio. Más preciso pero sujeto a descalibración
 - **Digital automático:** Infla solo, muestra数字 en pantalla. Ideal para consultorios de primer nivel
 - **De muñeca:** Compacto, para pacientes activos y domiciliarios
@@ -1375,13 +1449,13 @@ Mide la presión arterial sistólica y diastólica. Manual (aneroide) o automát
 
 **Equipos más vendidos en México:**
 
-| Tipo | Marca / Modelo | Notas |
-|---|---|---|
-| Aneroide premium | Welch Allyn DuraShock DS44 | Gearless — si se cae no se descalibra, el favorito de médicos generales |
-| Aneroide económico | Hergom Premium con palma | Muy vendido en sector público, palma integrada |
-| Digital de brazo | Omron HEM-7124 / 7320 | El más vendido en retail farmacéutico y consultorios populares |
-| Digital de muñeca | Omron HEM-6221 | Compacto, popular en pacientes que se auto-miden |
-| De columna (digital) | Seca 777 / 769 | Marca alemana líder — para consultorios que quieren imagen premium |
+| Tipo                 | Marca / Modelo             | Notas                                                                   |
+| -------------------- | -------------------------- | ----------------------------------------------------------------------- |
+| Aneroide premium     | Welch Allyn DuraShock DS44 | Gearless — si se cae no se descalibra, el favorito de médicos generales |
+| Aneroide económico   | Hergom Premium con palma   | Muy vendido en sector público, palma integrada                          |
+| Digital de brazo     | Omron HEM-7124 / 7320      | El más vendido en retail farmacéutico y consultorios populares          |
+| Digital de muñeca    | Omron HEM-6221             | Compacto, popular en pacientes que se auto-miden                        |
+| De columna (digital) | Seca 777 / 769             | Marca alemana líder — para consultorios que quieren imagen premium      |
 
 ---
 
@@ -1391,18 +1465,19 @@ Mide la presión arterial sistólica y diastólica. Manual (aneroide) o automát
 Dispositivo puntual para medir la saturación de oxígeno en sangre periférica (SpO2). Fundamental en urgencias, consultorios y atención domiciliaria.
 
 **Variaciones:**
+
 - **Dedo:** El más común — pediátrico y adulto
 - **Multiparamétrico:** Integrado al monitor de signos vitales
 - **De Tracey:** Para paciente en movimiento (deportistas)
 
 **Equipos más vendidos en México:**
 
-| Tipo | Marca | Notas |
-|---|---|---|
-| Dedo | Choicemmed OXY-3 / OXY-5 | Certificación FDA, el más vendido en sector salud |
-| Dedo | Nonin Onyx 9550 | Premium — precisión clínica, muy usado en hospital privado |
-| Dedo | Beurer PO-40 / PO-80 | Muy popular en retail y consultorios de primer nivel |
-| De mano | Masimo MightySat | Para médicos que quieren datos avanzados (pletismografía) |
+| Tipo    | Marca                    | Notas                                                      |
+| ------- | ------------------------ | ---------------------------------------------------------- |
+| Dedo    | Choicemmed OXY-3 / OXY-5 | Certificación FDA, el más vendido en sector salud          |
+| Dedo    | Nonin Onyx 9550          | Premium — precisión clínica, muy usado en hospital privado |
+| Dedo    | Beurer PO-40 / PO-80     | Muy popular en retail y consultorios de primer nivel       |
+| De mano | Masimo MightySat         | Para médicos que quieren datos avanzados (pletismografía)  |
 
 > **Nota de venta:** Los oxímetros genéricos de $100 MXN no tienen certificación FDA ni precisión clínica. Si el cliente es profesional, empaque la venta con la recomendación de marca certificada.
 
@@ -1418,19 +1493,20 @@ Equipos críticos diseñados para mantener las funciones biológicas del pacient
 Suple o asiste la función respiratoria en pacientes con insuficiencia pulmonar. Controla volumen o presión tidal, frecuencia y FiO2.
 
 **Variaciones:**
+
 - **De transporte:** Para ambulancias y traslados (batería integrada)
 - **De terapia intensiva:** Para UCI con múltiples modos ventilatorios
 - **De alta frecuencia:** Para neonatología (oscilación de alta frecuencia)
 
 **Equipos más vendidos en México:**
 
-| Tipo | Marca / Modelo | Notas |
-|---|---|---|
+| Tipo       | Marca / Modelo              | Notas                                                    |
+| ---------- | --------------------------- | -------------------------------------------------------- |
 | UCI adulto | Servo-i / Servo-u (Getinge) | Estándar de oro en México — el más usado en UCI privadas |
-| UCI adulto | Puritan Bennett 980 | Muy popular en sector público por su simplicidad |
-| UCI adulto | Mindray SV300 / SV800 | Ganando mercado por precio/calidad y servicio en MX |
-| Transporte | Hamilton T1 | El más resistente para traslados en México |
-| Neonatal | Fabian + nCPAP (Emeka/AiM) | Ganador en UCIN mexicanas por precio y funcionalidad |
+| UCI adulto | Puritan Bennett 980         | Muy popular en sector público por su simplicidad         |
+| UCI adulto | Mindray SV300 / SV800       | Ganando mercado por precio/calidad y servicio en MX      |
+| Transporte | Hamilton T1                 | El más resistente para traslados en México               |
+| Neonatal   | Fabian + nCPAP (Emeka/AiM)  | Ganador en UCIN mexicanas por precio y funcionalidad     |
 
 ---
 
@@ -1440,19 +1516,20 @@ Suple o asiste la función respiratoria en pacientes con insuficiencia pulmonar.
 Aplica una descarga eléctrica controlada para restablecer el ritmo cardíaco normal en paros cardíacos o arritmias letales.
 
 **Variaciones:**
+
 - **DEA (Desfibrilador Externo Automático):** Para personal no entrenado — habla y guía al usuario
 - **Desfibrilador manual bifásico:** Para personal capacitado — permite controlar la energía
 - **Desfibrilador con marcapasos externo:** Combina ambas funciones
 
 **Equipos más vendidos en México:**
 
-| Tipo | Marca / Modelo | Notas |
-|---|---|---|
-| DEA | ZOLL AED Plus | El verde brillante — el estándar en México. Habla en español, corrige RCP en tiempo real, parches 5 años |
-| DEA | Philips HeartStart FRx | Resistente al agua, llave pediátrica integrada, muy popular en hoteles y corporativos |
-| DEA | Mindray BeneHeart D3 | Opción de valor — carga en <3 segundos, paletas adultas y pediátricas integradas |
-| Manual bifásico | ZOLL R Series | Premium — el favorito de urgenciólogos y paramédicos en México |
-| Manual bifásico | Mindray BeneHeart R12 | Muy robusto, interpretador de arritmias, precio competitivo |
+| Tipo            | Marca / Modelo         | Notas                                                                                                    |
+| --------------- | ---------------------- | -------------------------------------------------------------------------------------------------------- |
+| DEA             | ZOLL AED Plus          | El verde brillante — el estándar en México. Habla en español, corrige RCP en tiempo real, parches 5 años |
+| DEA             | Philips HeartStart FRx | Resistente al agua, llave pediátrica integrada, muy popular en hoteles y corporativos                    |
+| DEA             | Mindray BeneHeart D3   | Opción de valor — carga en <3 segundos, paletas adultas y pediátricas integradas                         |
+| Manual bifásico | ZOLL R Series          | Premium — el favorito de urgenciólogos y paramédicos en México                                           |
+| Manual bifásico | Mindray BeneHeart R12  | Muy robusto, interpretador de arritmias, precio competitivo                                              |
 
 ---
 
@@ -1462,18 +1539,19 @@ Aplica una descarga eléctrica controlada para restablecer el ritmo cardíaco no
 Administra medicamentos y fluidos de forma exacta y programada por vía intravenosa. Crítica en UCI, oncology y pediatría.
 
 **Variaciones:**
+
 - **Volumétrica:** Para grandes volúmenes (nutrición, hidratación)
 - **De jeringa:** Para dosis precisas de fármacos potentes (vasopresores, insulina)
 - **PCA (Patient Controlled Analgesia):** El paciente se auto-administra analgésico con límites de seguridad
 
 **Equipos más vendidos en México:**
 
-| Tipo | Marca / Modelo | Notas |
-|---|---|---|
+| Tipo        | Marca / Modelo           | Notas                                                                          |
+| ----------- | ------------------------ | ------------------------------------------------------------------------------ |
 | Volumétrica | B. Braun Infusomat Space | La número uno en México — las enfermeras la conocen de memoria, indestructible |
-| Volumétrica | Mindray BeneFusion SP3 | Pantalla táctil, intuitiva, precio muy competitivo |
-| De jeringa | B. Braun Perfusor Space | Combinable con la volumétrica en el mismo sistema de rieles |
-| De jeringa | Fresenius Orchestra | Premium para oncology y terapias complejas |
+| Volumétrica | Mindray BeneFusion SP3   | Pantalla táctil, intuitiva, precio muy competitivo                             |
+| De jeringa  | B. Braun Perfusor Space  | Combinable con la volumétrica en el mismo sistema de rieles                    |
+| De jeringa  | Fresenius Orchestra      | Premium para oncology y terapias complejas                                     |
 
 > **Tip de venta:** Las bombas B. Braun se venden en combos de 3-5 unidades. Ofrece contrato de mantenimiento y refacciones como ingreso recurrente.
 
@@ -1486,12 +1564,12 @@ Proporciona un ambiente controlado de temperatura, humedad y oxígeno para reci�
 
 **Equipos más vendidos en México:**
 
-| Equipo | Marca | Notas |
-|---|---|---|
-| Incubadora estándar | Dräger Incubator 8000 | El estándar en UCIN privadas de México |
-| Incubadora | Atom Invention 2 | Muy usado en sector público — robusto y fácil de reparar |
-| Incubadora de transporte | Dräger TMX-1 | Con batería y soporte de oxígeno para traslado neonatal |
-| Cuna de calor radiante | Hill-Rom radiant warmer | Para procedimientos donde se requiere acceso total al bebé |
+| Equipo                   | Marca                   | Notas                                                      |
+| ------------------------ | ----------------------- | ---------------------------------------------------------- |
+| Incubadora estándar      | Dräger Incubator 8000   | El estándar en UCIN privadas de México                     |
+| Incubadora               | Atom Invention 2        | Muy usado en sector público — robusto y fácil de reparar   |
+| Incubadora de transporte | Dräger TMX-1            | Con batería y soporte de oxígeno para traslado neonatal    |
+| Cuna de calor radiante   | Hill-Rom radiant warmer | Para procedimientos donde se requiere acceso total al bebé |
 
 ---
 
@@ -1504,12 +1582,12 @@ Suministra gases anestésicos (isoflurano, sevoflurano) y controla la ventilaci�
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Mindray WATO EX-35 | El más vendido en México — precio competitivo y servicio técnico disponible en todo el país |
-| Dräger Fabius Tiro | Fiabilidad alemana — muy solicitado en hospitales privados premium |
-| Dräger Perseus A500 | Premium — anestesia digital completa para cirugías largas y pacientes críticos |
-| Mindray Veta 5 (veterinaria) | Diseñada específicamente para uso veterinario — de 500g a Mastines |
+| Marca / Modelo               | Notas                                                                                       |
+| ---------------------------- | ------------------------------------------------------------------------------------------- |
+| Mindray WATO EX-35           | El más vendido en México — precio competitivo y servicio técnico disponible en todo el país |
+| Dräger Fabius Tiro           | Fiabilidad alemana — muy solicitado en hospitales privados premium                          |
+| Dräger Perseus A500          | Premium — anestesia digital completa para cirugías largas y pacientes críticos              |
+| Mindray Veta 5 (veterinaria) | Diseñada específicamente para uso veterinario — de 500g a Mastines                          |
 
 ---
 
@@ -1519,18 +1597,19 @@ Suministra gases anestésicos (isoflurano, sevoflurano) y controla la ventilaci�
 Corta tejido y coagula vasos sanguíneos mediante corrientes eléctricas de alta frecuencia (RF). Indispensable en cualquier cirugía.
 
 **Variaciones:**
+
 - **Bipolar:** Para cirugía delicada (neurocirugía, oftálmica)
 - **Monopolar:** Corte general y coagulación
 - **RF (Radiofrecuencia):** Mínima destrucción tisular lateral — mejor cicatrización
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Tipo | Notas |
-|---|---|---|
-| Valleylab Force FX (Medtronic) | RF + Monopolar + Bipolar | El estándar de oro — los cirujanos lo piden por nombre |
-| Bovie Aaron 950 | Cauterización simple | Opción costo-efectiva para procedimientos menores |
-| Ellman Surgitron FFPF | RF pura | El favorito de dermatólogos y cirujanos plásticos — mejor resultado estético |
-| ConMed System 5000 | RF + Monopolar | Muy usado en hospitales públicos |
+| Marca / Modelo                 | Tipo                     | Notas                                                                        |
+| ------------------------------ | ------------------------ | ---------------------------------------------------------------------------- |
+| Valleylab Force FX (Medtronic) | RF + Monopolar + Bipolar | El estándar de oro — los cirujanos lo piden por nombre                       |
+| Bovie Aaron 950                | Cauterización simple     | Opción costo-efectiva para procedimientos menores                            |
+| Ellman Surgitron FFPF          | RF pura                  | El favorito de dermatólogos y cirujanos plásticos — mejor resultado estético |
+| ConMed System 5000             | RF + Monopolar           | Muy usado en hospitales públicos                                             |
 
 ---
 
@@ -1541,12 +1620,12 @@ Iluminación LED de alta intensidad que elimina sombras en el campo operatorio. 
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Mindray HyLED 9700 | LED, control de sombras, precio competitivo — el más vendido en sector privado |
-| Maquet Volista 700 LED | Premium — luz fría que no deshidrata el tejido, control de sombras avanzado |
-| Trumpf TruLight 5000 | Estándar en quirófanos de alto nivel |
-| SIMEON sim-Q LED | Opción europea de buena relación precio/calidad |
+| Marca / Modelo         | Notas                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------ |
+| Mindray HyLED 9700     | LED, control de sombras, precio competitivo — el más vendido en sector privado |
+| Maquet Volista 700 LED | Premium — luz fría que no deshidrata el tejido, control de sombras avanzado    |
+| Trumpf TruLight 5000   | Estándar en quirófanos de alto nivel                                           |
+| SIMEON sim-Q LED       | Opción europea de buena relación precio/calidad                                |
 
 ---
 
@@ -1556,17 +1635,18 @@ Iluminación LED de alta intensidad que elimina sombras en el campo operatorio. 
 Plataforma articulada que permite posicionar al paciente de forma óptima según la especialidad quirúrgica. Puede ser hidráulica, electrohidráulica o eléctrica.
 
 **Variaciones:**
+
 - **Radiotransparente:** Permite el paso de rayos X (para Arco en C)
 - **Hasta 450 kg:** Para pacientes bariátricos
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Tipo | Notas |
-|---|---|---|
-| Mindray HyBase 8500 | Electrohidráulica | Precio competitivo, radiotransparente, muy popular en privados |
-| Steris Amsco 3085 | Electrohidráulica | Robusta, widely disponible en México |
-| Maquet Meera | Modular (Premium) | Soporta 450kg+, Compatible con Arco en C, para alta complejidad |
-| Stryker 1117 T MT | Eléctrica | Muy usada en hospitales privados modernos |
+| Marca / Modelo      | Tipo              | Notas                                                           |
+| ------------------- | ----------------- | --------------------------------------------------------------- |
+| Mindray HyBase 8500 | Electrohidráulica | Precio competitivo, radiotransparente, muy popular en privados  |
+| Steris Amsco 3085   | Electrohidráulica | Robusta, widely disponible en México                            |
+| Maquet Meera        | Modular (Premium) | Soporta 450kg+, Compatible con Arco en C, para alta complejidad |
+| Stryker 1117 T MT   | Eléctrica         | Muy usada en hospitales privados modernos                       |
 
 ---
 
@@ -1577,12 +1657,12 @@ Sistema de video y cámaras para realizar cirugías de mínima invasión (MIS). 
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Stryker 1688 AIM 4K | El líder de mercado en México — resolución 4K, integración con翡uipamentos Stryker |
-| Olympus Evis X1 | La mejor óptica del mercado — favoritos de urólogos y ginecólogos |
-| Karl Storz IMAGE 1 S 4K | Premium — la marca que piden los cirujanos de élite |
-| FUJIFILM ELUXEO 4K | Más accesible, buena calidad de imagen |
+| Marca / Modelo          | Notas                                                                             |
+| ----------------------- | --------------------------------------------------------------------------------- |
+| Stryker 1688 AIM 4K     | El líder de mercado en México — resolución 4K, integración con翡uipamentos Stryker |
+| Olympus Evis X1         | La mejor óptica del mercado — favoritos de urólogos y ginecólogos                 |
+| Karl Storz IMAGE 1 S 4K | Premium — la marca que piden los cirujanos de élite                               |
+| FUJIFILM ELUXEO 4K      | Más accesible, buena calidad de imagen                                            |
 
 ---
 
@@ -1595,11 +1675,11 @@ Realiza conteos celulares automáticos: glóbulos rojos, blancos, plaquetas, hem
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Mindray BC-3600 / BC-5150 | El más vendido por volumen en México — precio competitivo y refacciones fáciles |
-| Sysmex XS-500i / XN-1000 | Estándar de oro — el que más piden laboratorios certificados |
-| Boule Medical ABX Micros 60 | Opción compacta para laboratorios pequeños |
+| Marca / Modelo              | Notas                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------- |
+| Mindray BC-3600 / BC-5150   | El más vendido por volumen en México — precio competitivo y refacciones fáciles |
+| Sysmex XS-500i / XN-1000    | Estándar de oro — el que más piden laboratorios certificados                    |
+| Boule Medical ABX Micros 60 | Opción compacta para laboratorios pequeños                                      |
 
 ---
 
@@ -1610,12 +1690,12 @@ Mide niveles de glucosa, colesterol, triglicéridos, enzimas hepáticas, urea, c
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
+| Marca / Modelo          | Notas                                                         |
+| ----------------------- | ------------------------------------------------------------- |
 | Roche Cobas c311 / c501 | Estándar de oro en laboratorios certificados — alta precisión |
-| Mindray BS-240 Pro | Ganando mercado por precio y servicio en MX |
-| Siemens Advia 1800 | Muy usado en laboratorios hospitalarios grandes |
-| Roche cobas b121 | Para laboratorios pequeños con menor volumen |
+| Mindray BS-240 Pro      | Ganando mercado por precio y servicio en MX                   |
+| Siemens Advia 1800      | Muy usado en laboratorios hospitalarios grandes               |
+| Roche cobas b121        | Para laboratorios pequeños con menor volumen                  |
 
 ---
 
@@ -1641,11 +1721,11 @@ Permite la observación detallada de microorganismos y estructuras celulares. In
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Tipo | Notas |
-|---|---|---|
+| Marca / Modelo        | Tipo      | Notas                                                               |
+| --------------------- | --------- | ------------------------------------------------------------------- |
 | Carl Zeiss Primo Star | Binocular | Óptica alemana — el estándar en laboratorios certificados en México |
-| Olympus CX23 / CX33 | Binocular | Muy popular por durabilidad y precio accesible |
-| Motic BA210 / BA310 | Binocular | Marca estadounidense con buena presencia en MX |
+| Olympus CX23 / CX33   | Binocular | Muy popular por durabilidad y precio accesible                      |
+| Motic BA210 / BA310   | Binocular | Marca estadounidense con buena presencia en MX                      |
 
 ---
 
@@ -1658,22 +1738,22 @@ Conjunto que incluye monitor grado médico, procesador de video, fuente de luz y
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| FUJIFILM ELUXEO 7000 | El más vendido en México — resolución 4K, detección de pólipos asistida por IA |
-| Olympus EXERA III CV-290 | Favorito de gastroenterólogos privados — la mejor óptica del mundo |
-| Pentax Medical i-series | Muy usado en sector público y hospitales |
+| Marca / Modelo           | Notas                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------ |
+| FUJIFILM ELUXEO 7000     | El más vendido en México — resolución 4K, detección de pólipos asistida por IA |
+| Olympus EXERA III CV-290 | Favorito de gastroenterólogos privados — la mejor óptica del mundo             |
+| Pentax Medical i-series  | Muy usado en sector público y hospitales                                       |
 
 ### Gastro-videoscopio / Colonoscopio
 
 **¿Qué es?**
 Tubos flexibles con cámara para examinar esófago, estómago, duodeno (gastroscopia) o intestino grueso (colonoscopia).
 
-| Marca | Notas |
-|---|---|
-| FUJIFILM EG-580RD / EC-590MP | Muy popular en México por precio y durabilidad |
+| Marca                        | Notas                                               |
+| ---------------------------- | --------------------------------------------------- |
+| FUJIFILM EG-580RD / EC-590MP | Muy popular en México por precio y durabilidad      |
 | Olympus GIF-HQ190 / CF-HQ190 | Premium — la óptica que piden los gastroenterólogos |
-| Pentax Medical EC-3890Fi | Nueva generación con Magnificación |
+| Pentax Medical EC-3890Fi     | Nueva generación con Magnificación                  |
 
 ---
 
@@ -1686,11 +1766,11 @@ Extrae nitrógeno del aire ambiental para entregar oxígeno concentrado al 90–
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Inogen One G5 | Portátil, el más vendido para pacientes domiciliarios en México |
-| AirSep NewLife Intensity | De alto flujo para uso domiciliario |
-| DeVilbiss 525KS | Robusto, popular en sector salud público |
+| Marca / Modelo           | Notas                                                           |
+| ------------------------ | --------------------------------------------------------------- |
+| Inogen One G5            | Portátil, el más vendido para pacientes domiciliarios en México |
+| AirSep NewLife Intensity | De alto flujo para uso domiciliario                             |
+| DeVilbiss 525KS          | Robusto, popular en sector salud público                        |
 
 ---
 
@@ -1701,11 +1781,11 @@ Máquinas de presión positiva para tratar apnea obstructiva del sueño (CPAP) y
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Tipo | Notas |
-|---|---|---|
+| Marca / Modelo          | Tipo           | Notas                                                       |
+| ----------------------- | -------------- | ----------------------------------------------------------- |
 | ResMed AirSense 11 / 10 | CPAP/Auto CPAP | El más vendido en México — la marca dominante en sleep labs |
-| Philips DreamStation 2 | CPAP/Auto CPAP | Segunda marca más vendida — buena integración con oxímetros |
-| ResMed Stellar 150 | BiPAP | Para fallas respiratorias más severas — con turbina robusta |
+| Philips DreamStation 2  | CPAP/Auto CPAP | Segunda marca más vendida — buena integración con oxímetros |
+| ResMed Stellar 150      | BiPAP          | Para fallas respiratorias más severas — con turbina robusta |
 
 ---
 
@@ -1715,16 +1795,17 @@ Máquinas de presión positiva para tratar apnea obstructiva del sueño (CPAP) y
 Convierte medicamento líquido en aerosol fino para ser inhalado. Trata asma, EPOC y enfermedades pulmonares.
 
 **Variaciones:**
+
 - **De pistón:** Más robusto, más barato — el más usado en México
 - **Ultrasónico:** Más silencioso, partículas más finas
 
 **Equipos más vendidos en México:**
 
-| Tipo | Marca / Modelo | Notas |
-|---|---|---|
-| Pistón | Omron NE-C28 / NE-C30 | El nebulizador más vendido en México — robusto, fácil de limpiar |
-| Pistón | Philips Innospire Essence | Muy popular en sector público |
-| Ultrasónico | Omron NE-U100 | Portátil, ultrasónico silencioso — para niños pequeños |
+| Tipo        | Marca / Modelo            | Notas                                                            |
+| ----------- | ------------------------- | ---------------------------------------------------------------- |
+| Pistón      | Omron NE-C28 / NE-C30     | El nebulizador más vendido en México — robusto, fácil de limpiar |
+| Pistón      | Philips Innospire Essence | Muy popular en sector público                                    |
+| Ultrasónico | Omron NE-U100             | Portátil, ultrasónico silencioso — para niños pequeños           |
 
 ---
 
@@ -1734,11 +1815,11 @@ Convierte medicamento líquido en aerosol fino para ser inhalado. Trata asma, EP
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
+| Marca / Modelo         | Notas                                                                        |
+| ---------------------- | ---------------------------------------------------------------------------- |
 | MIR Spirobank II Smart | El más vendido — se conecta a iPad/PC, marca italiana con buen soporte en MX |
-| MIR SpiroCub | Compacto, para consultorio privado |
-| SCHILLER SpiroScout | Integrado con ECG CARDIOVIT — el más completo para cardiólogos |
+| MIR SpiroCub           | Compacto, para consultorio privado                                           |
+| SCHILLER SpiroScout    | Integrado con ECG CARDIOVIT — el más completo para cardiólogos               |
 
 ---
 
@@ -1750,18 +1831,19 @@ Convierte medicamento líquido en aerosol fino para ser inhalado. Trata asma, EP
 Utiliza calor húmedo a presión (autoclave) para esterilizar instrumental quirúrgico. Es el equipo más importante de la CEYE.
 
 **Clases:**
+
 - **Clase N:** Solo instrumental sólido hueco
 - **Clase B (Premium):** La única que acepta cargas porosas y huecas — obligatoria para cirugía
 - **Clase S:** intermedia
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Clase | Notas |
-|---|---|---|
-| Midmark Ritter 250 / 500 | Clase B | El estándar en México para clínicas y hospitales privados |
-| Tuttnauer 3870 EA / 3870 EA Sakura | Clase B | Muy confiable, popular en laboratorios dentales |
-| Zeyco Z-30 / Z-50 | Clase B (nacional) | Fabricación mexicana — precio competitivo y refacciones local |
-| Melag Vacuklav 24-B / 41-B | Clase B | Premium alemán — el favorito de clínicas certificadas |
+| Marca / Modelo                     | Clase              | Notas                                                         |
+| ---------------------------------- | ------------------ | ------------------------------------------------------------- |
+| Midmark Ritter 250 / 500           | Clase B            | El estándar en México para clínicas y hospitales privados     |
+| Tuttnauer 3870 EA / 3870 EA Sakura | Clase B            | Muy confiable, popular en laboratorios dentales               |
+| Zeyco Z-30 / Z-50                  | Clase B (nacional) | Fabricación mexicana — precio competitivo y refacciones local |
+| Melag Vacuklav 24-B / 41-B         | Clase B            | Premium alemán — el favorito de clínicas certificadas         |
 
 ---
 
@@ -1772,11 +1854,11 @@ Usa peróxido de hidrógeno en fase plasma para esterilizar equipos que no sopor
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Steris V-PRO maX | El más vendido en México — rápido ciclo (28 min), muy usado en hospitales privados |
-| ASP Sterrad 100NX | Segundo lugar — tecnología de gas plasma con gas óxido de etileno residual |
-| Menulique Smart | Opción francesa con buena presencia en clínicas oftalmológicas |
+| Marca / Modelo    | Notas                                                                              |
+| ----------------- | ---------------------------------------------------------------------------------- |
+| Steris V-PRO maX  | El más vendido en México — rápido ciclo (28 min), muy usado en hospitales privados |
+| ASP Sterrad 100NX | Segundo lugar — tecnología de gas plasma con gas óxido de etileno residual         |
+| Menulique Smart   | Opción francesa con buena presencia en clínicas oftalmológicas                     |
 
 ---
 
@@ -1791,10 +1873,10 @@ Mide cuánta sangre bombea el corazón por minuto (gasto cardíaco) en pacientes
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
+| Marca / Modelo  | Notas                                                                                         |
+| --------------- | --------------------------------------------------------------------------------------------- |
 | Edwards FloTrac | El estándar — se conecta a monitor Philips o GE y calcula gasto cardíaco de forma no invasiva |
-| PiCCO (Pulsion) | Más completo — requiere catéter especial |
+| PiCCO (Pulsion) | Más completo — requiere catéter especial                                                      |
 
 ---
 
@@ -1809,11 +1891,11 @@ Ondas acústicas de alta energía para tratar tendinopatías crónicas, calcific
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Storz MasterPuls MP100 | El líder de mercado —瑞士 calidad, popular en clínicas de fisioterapia premium |
-| Intelect Triton (Chattanooga) | Buena relación precio/calidad, muy vendido en sector privado |
-| BTL-6000 SWT | Más accesible, popular en cadenas de fisioterapia |
+| Marca / Modelo                | Notas                                                                        |
+| ----------------------------- | ---------------------------------------------------------------------------- |
+| Storz MasterPuls MP100        | El líder de mercado —瑞士 calidad, popular en clínicas de fisioterapia premium |
+| Intelect Triton (Chattanooga) | Buena relación precio/calidad, muy vendido en sector privado                 |
+| BTL-6000 SWT                  | Más accesible, popular en cadenas de fisioterapia                            |
 
 ---
 
@@ -1824,11 +1906,11 @@ Bioestimulación con láser de alta potencia para acelerar regeneración de teji
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
+| Marca / Modelo                    | Notas                                                                 |
+| --------------------------------- | --------------------------------------------------------------------- |
 | Chattanooga Intelect Mobile Laser | El más vendido en México — potencia real y profundidad de penetración |
-| K-Laser Cube 4 | Premium — muy usado en clínicas de rehabilitación deportiva |
-| MLS M6 (ASA) | Terapia dual (MLS) — combina láser pulsado y continuo |
+| K-Laser Cube 4                    | Premium — muy usado en clínicas de rehabilitación deportiva           |
+| MLS M6 (ASA)                      | Terapia dual (MLS) — combina láser pulsado y continuo                 |
 
 ---
 
@@ -1839,11 +1921,11 @@ Utiliza radiofrecuencia para generar calor profundo en músculos y articulacione
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Winback TECAR HR | El líder en México — muy solicitado por fisioterapeutas deportivos |
-| Chattanooga FocusTec | Buena alternativa con precio más accesible |
-| BTL-6000 Tecar | Segunda marca más vendida |
+| Marca / Modelo       | Notas                                                              |
+| -------------------- | ------------------------------------------------------------------ |
+| Winback TECAR HR     | El líder en México — muy solicitado por fisioterapeutas deportivos |
+| Chattanooga FocusTec | Buena alternativa con precio más accesible                         |
+| BTL-6000 Tecar       | Segunda marca más vendida                                          |
 
 ---
 
@@ -1871,11 +1953,11 @@ Equipos con control estricto de temperatura (2°C a 6°C) y alarmas para conserv
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
+| Marca / Modelo                   | Notas                                                  |
+| -------------------------------- | ------------------------------------------------------ |
 | Helmer Scientific i.Series iB106 | El estándar en bancos de sangre mexicanos certificados |
-| Philipp Kirsch Labcool | Muy usado en hospitales privados |
-| Terumo Blood Bank Refrigerator | Popular por confiabilidad y servicio técnico en MX |
+| Philipp Kirsch Labcool           | Muy usado en hospitales privados                       |
+| Terumo Blood Bank Refrigerator   | Popular por confiabilidad y servicio técnico en MX     |
 
 ---
 
@@ -1904,11 +1986,11 @@ Estructura para consulta general con posicionesbasic y opcionales ginecológicas
 
 **Equipos más vendidos en México:**
 
-| Gama | Marca / Modelo | Notas |
-|---|---|---|
-| Económica | Hamilton (Hergom / Sied) | La clásica mexicana con cajones, pierneras, escalón integrado |
-| Media | BAME Mesa de Exploración Eléctrica | Manufactura mexicana de alta calidad — robusta y estética |
-| Premium | Midmark 625 / 630 | Importada, muy usada en clínicas privadas premium |
+| Gama      | Marca / Modelo                     | Notas                                                         |
+| --------- | ---------------------------------- | ------------------------------------------------------------- |
+| Económica | Hamilton (Hergom / Sied)           | La clásica mexicana con cajones, pierneras, escalón integrado |
+| Media     | BAME Mesa de Exploración Eléctrica | Manufactura mexicana de alta calidad — robusta y estética     |
+| Premium   | Midmark 625 / 630                  | Importada, muy usada en clínicas privadas premium             |
 
 ---
 
@@ -1919,12 +2001,12 @@ Permite posiciones (Fowler, Trendelenburg, Chair) para evitar úlceras por presi
 
 **Equipos más vendidos en México:**
 
-| Gama | Marca / Modelo | Notas |
-|---|---|---|
-| Premium | Hill-Rom CareAssist ES | *"Si tiene Hill-Rom, es un buen hospital"* — el estándar en privados |
-| Media | LINET Eleganza 1 / 2 | Diseño europeo, barandales divididos muy seguros |
-| Valor | Paramount Bed Serie A5 | Japonesa — duradera y con buena relación precio/calidad |
-| Económica | Hergom / Nacional | Para hospitales públicos y clínicas de primer nivel |
+| Gama      | Marca / Modelo         | Notas                                                                |
+| --------- | ---------------------- | -------------------------------------------------------------------- |
+| Premium   | Hill-Rom CareAssist ES | *"Si tiene Hill-Rom, es un buen hospital"* — el estándar en privados |
+| Media     | LINET Eleganza 1 / 2   | Diseño europeo, barandales divididos muy seguros                     |
+| Valor     | Paramount Bed Serie A5 | Japonesa — duradera y con buena relación precio/calidad              |
+| Económica | Hergom / Nacional      | Para hospitales públicos y clínicas de primer nivel                  |
 
 ---
 
@@ -1935,11 +2017,11 @@ Pantalla iluminada para ver radiografías físicas. Está siendo desplazada por 
 
 **Equipos más vendidos en México:**
 
-| Marca / Modelo | Notas |
-|---|---|
-| Riester Ri-Scope LED | Premium alemán — luz uniforme, extra delgado |
+| Marca / Modelo          | Notas                                                           |
+| ----------------------- | --------------------------------------------------------------- |
+| Riester Ri-Scope LED    | Premium alemán — luz uniforme, extra delgado                    |
 | Hergom Negatoscopio LED | El más vendido en México — línea nacional económica y funcional |
-| marca nacional | Opción económica widely disponible |
+| marca nacional          | Opción económica widely disponible                              |
 
 ---
 
@@ -1952,11 +2034,11 @@ Luz enfocada para procedimientos menores en consultorio: curación de heridas, s
 
 **Equipos más vendidos en México:**
 
-| Tipo | Marca / Modelo | Notas |
-|---|---|---|
-| Chicote LED | Welch Allyn Green Series 777 | LED fría, metなlica, el favorito de médicos generales y urgenciólogos |
-| Chicote LED | Riester Ri-Magic LED | Alemana — potencia lumínica excelente |
-| Frontal (Headlamp) | Welch Allyn Daylight NFL | Para procedimientos menores — luz coaxial con los ojos |
+| Tipo               | Marca / Modelo               | Notas                                                                |
+| ------------------ | ---------------------------- | -------------------------------------------------------------------- |
+| Chicote LED        | Welch Allyn Green Series 777 | LED fría, metなlica, el favorito de médicos generales y urgenciólogos |
+| Chicote LED        | Riester Ri-Magic LED         | Alemana — potencia lumínica excelente                                |
+| Frontal (Headlamp) | Welch Allyn Daylight NFL     | Para procedimientos menores — luz coaxial con los ojos               |
 
 ---
 
@@ -1971,6 +2053,7 @@ Luz enfocada para procedimientos menores en consultorio: curación de heridas, s
 Antes de ofrecer un equipo, debes entender la infraestructura del cliente:
 
 **¿Cuál es el nivel de atención de su unidad?**
+
 - **Primer Nivel:** Consultorios y medicina preventiva → Equipos básicos, costo-efectivos
 - **Segundo Nivel:** Hospitales generales con cirugía, gineco-obstetricia y medicina interna → Equipos de gama media
 - **Tercer Nivel:** Alta especialidad y tecnología de punta → Equipos premium, marcas reconocidas
@@ -1989,31 +2072,31 @@ Muchos equipos de Imagenología requieren instalaciones de plomo, tierras físic
 
 Aquí el cliente busca rentabilidad y precisión.
 
-| Pregunta | Por qué importa |
-|---|---|
-| ¿Busca un equipo analógico o digital? | En rayos X, lo digital ahorra insumos (películas, químicos) |
+| Pregunta                                     | Por qué importa                                                                                 |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ¿Busca un equipo analógico o digital?        | En rayos X, lo digital ahorra insumos (películas, químicos)                                     |
 | En Ultrasonido: ¿Qué transductores requiere? | Lineal → partes blandas. Convexo → abdomen. Endocavitario → ginecología. Cardiaco → cardiología |
-| ¿Requiere integración a sistema PACS/DICOM? | Para que médicos vean imágenes en sus computadoras o celulares |
+| ¿Requiere integración a sistema PACS/DICOM?  | Para que médicos vean imágenes en sus computadoras o celulares                                  |
 
 #### B. Clínicas de Cirugía y Quirófanos
 
 Aquí la prioridad es la seguridad del paciente y la durabilidad.
 
-| Pregunta | Por qué importa |
-|---|---|
-| ¿Cuántas salas de cirugía operan simultáneamente? | Define la cantidad de máquinas de anestesia y monitores |
-| ¿Realizan cirugía abierta o de mínima invasión? | Para ofrecer torres de laparoscopia |
-| ¿Cuál es el peso máximo que debe soportar la mesa quirúrgica? | Vital para clínicas que atienden pacientes bariátricos |
+| Pregunta                                                      | Por qué importa                                         |
+| ------------------------------------------------------------- | ------------------------------------------------------- |
+| ¿Cuántas salas de cirugía operan simultáneamente?             | Define la cantidad de máquinas de anestesia y monitores |
+| ¿Realizan cirugía abierta o de mínima invasión?               | Para ofrecer torres de laparoscopia                     |
+| ¿Cuál es el peso máximo que debe soportar la mesa quirúrgica? | Vital para clínicas que atienden pacientes bariátricos  |
 
 #### C. Unidades de Cuidados Intensivos (UCI) y Urgencias
 
 Aquí se busca soporte vital y conectividad.
 
-| Pregunta | Por qué importa |
-|---|---|
-| ¿Necesita monitoreo centralizado? | Una pantalla en la central de enfermería que vea todas las camas |
-| ¿El ventilador debe ser para pacientes neonatales, pediátricos o adultos? | Muchos ventiladores no cubren todo el rango |
-| ¿Requiere que el desfibrilador tenga modo marcapasos externo o solo descarga? | Diferencia entre modelo básico y premium |
+| Pregunta                                                                      | Por qué importa                                                  |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ¿Necesita monitoreo centralizado?                                             | Una pantalla en la central de enfermería que vea todas las camas |
+| ¿El ventilador debe ser para pacientes neonatales, pediátricos o adultos?     | Muchos ventiladores no cubren todo el rango                      |
+| ¿Requiere que el desfibrilador tenga modo marcapasos externo o solo descarga? | Diferencia entre modelo básico y premium                         |
 
 ---
 
@@ -2021,12 +2104,12 @@ Aquí se busca soporte vital y conectividad.
 
 Un vendedor experto nunca olvida la normativa y el mantenimiento:
 
-| Pregunta | Qué desbloquea |
-|---|---|
-| **Registro Sanitario:** *"¿Sabe que este equipo cuenta con registro vigente ante COFEPRIS?"* | Sin esto, el hospital puede ser multado. Si el equipo lo tiene, es una ventaja competitiva |
-| **Consumibles:** *"¿Tiene proveedor para los insumos?"* | Ej: Papel para ECG, gel para ultrasonido, filtros para ventiladores. Un equipo sin consumibles es un mueble caro |
-| **Servicio Post-venta:** *"¿Quién realizará el mantenimiento preventivo y correctivo? ¿Hay piezas de repuesto en México?"* | La marca debe tener soporte local |
-| **Capacitación:** *"¿Cuántas personas operarán el equipo? ¿Requieren capacitación con valor curricular?"* | Ofrece capacitación como valor agregado |
+| Pregunta                                                                                                                   | Qué desbloquea                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Registro Sanitario:** *"¿Sabe que este equipo cuenta con registro vigente ante COFEPRIS?"*                               | Sin esto, el hospital puede ser multado. Si el equipo lo tiene, es una ventaja competitiva                       |
+| **Consumibles:** *"¿Tiene proveedor para los insumos?"*                                                                    | Ej: Papel para ECG, gel para ultrasonido, filtros para ventiladores. Un equipo sin consumibles es un mueble caro |
+| **Servicio Post-venta:** *"¿Quién realizará el mantenimiento preventivo y correctivo? ¿Hay piezas de repuesto en México?"* | La marca debe tener soporte local                                                                                |
+| **Capacitación:** *"¿Cuántas personas operarán el equipo? ¿Requieren capacitación con valor curricular?"*                  | Ofrece capacitación como valor agregado                                                                          |
 
 ---
 
@@ -2034,14 +2117,14 @@ Un vendedor experto nunca olvida la normativa y el mantenimiento:
 
 Si el cliente dice... tú ofreces...
 
-| El cliente dice... | Tú ofreces... | Por qué |
-|---|---|---|
-| *"Voy a abrir una clínica de parto"* | Cuna radiante, Doppler fetal y Lámpara de examen | Cubres el pre-parto, parto y atención del recién nacido |
-| *"Tengo muchos pacientes con diabetes"* | Glucómetros industriales, Unidades de hemodiálisis | Atiendes las complicaciones crónicas más comunes en México |
-| *"Mi equipo de Rayos X ya es viejo"* | Panel Digitalizador (DR) | Es más barato que comprar uno nuevo; moderniza el viejo a digital |
-| *"Necesito equipar una ambulancia"* | Monitor de transporte, Aspirador de secreciones, Camilla rígida | Todo en uno para respuesta prehospitalaria |
-| *"Quiero cardioprotegir mi hotel/corporativo"* | ZOLL AED Plus + gabinete + señalética + curso RCP | Cumple NOMs y reduce responsabilidad legal |
-| *"Mis enfermeras se cansan de posicionar pacientes"* | Cama Hill-Rom CareAssist con barandales y controles | Reduce lesiones de espalda y llamadas a enfermería |
+| El cliente dice...                                   | Tú ofreces...                                                   | Por qué                                                           |
+| ---------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| *"Voy a abrir una clínica de parto"*                 | Cuna radiante, Doppler fetal y Lámpara de examen                | Cubres el pre-parto, parto y atención del recién nacido           |
+| *"Tengo muchos pacientes con diabetes"*              | Glucómetros industriales, Unidades de hemodiálisis              | Atiendes las complicaciones crónicas más comunes en México        |
+| *"Mi equipo de Rayos X ya es viejo"*                 | Panel Digitalizador (DR)                                        | Es más barato que comprar uno nuevo; moderniza el viejo a digital |
+| *"Necesito equipar una ambulancia"*                  | Monitor de transporte, Aspirador de secreciones, Camilla rígida | Todo en uno para respuesta prehospitalaria                        |
+| *"Quiero cardioprotegir mi hotel/corporativo"*       | ZOLL AED Plus + gabinete + señalética + curso RCP               | Cumple NOMs y reduce responsabilidad legal                        |
+| *"Mis enfermeras se cansan de posicionar pacientes"* | Cama Hill-Rom CareAssist con barandales y controles             | Reduce lesiones de espalda y llamadas a enfermería                |
 
 ---
 
@@ -2053,16 +2136,16 @@ Si el cliente dice... tú ofreces...
 
 ## Resumen: Equipos "Top" en Ventas por Especialidad
 
-| Especialidad | Equipo Top #1 | Equipo Top #2 | Proveedor/Líder |
-|---|---|---|---|
-| Cardiología | Holter 24 hrs | ECG 12 canales | SCHILLER, Philips |
-| Ginecología | Ultrasonido Doppler Color | Video Colposcopio | Mindray, Edan |
-| Urología | USG Portátil + Transductor endorectal | Biopsia prostática (BARD Magnum) | Mindray, BARD |
-| Odontología | Autoclave de Mesa Clase B | Unidad Dental Gnatus | Midmark, Gnatus |
-| Imagenología | Ultrasonido Portátil | Rayos X Portátil DR | Mindray, GE, Carestream |
-| Quirófano | Máquina de Anestesia | Torre Laparoscopia 4K | Mindray WATO, Stryker |
-| Terapia Respiratoria | Concentrador de O2 | Nebulizador | Inogen, Omron |
-| Fisioterapia | Ondas de Choque | Láser Terapéutico Clase IV | Storz, Chattanooga |
-| Urgencias | Desfibrilador bifásico | Monitor de signos | ZOLL, Welch Allyn, Mindray |
-| Hospitalización | Cama Eléctrica Hill-Rom | Bomba de Infusión B. Braun | Hill-Rom, B. Braun |
-| Laboratorio | Analizador Hematología | Centrífuga | Mindray, Sysmex, Hamilton Bell |
+| Especialidad         | Equipo Top #1                         | Equipo Top #2                    | Proveedor/Líder                |
+| -------------------- | ------------------------------------- | -------------------------------- | ------------------------------ |
+| Cardiología          | Holter 24 hrs                         | ECG 12 canales                   | SCHILLER, Philips              |
+| Ginecología          | Ultrasonido Doppler Color             | Video Colposcopio                | Mindray, Edan                  |
+| Urología             | USG Portátil + Transductor endorectal | Biopsia prostática (BARD Magnum) | Mindray, BARD                  |
+| Odontología          | Autoclave de Mesa Clase B             | Unidad Dental Gnatus             | Midmark, Gnatus                |
+| Imagenología         | Ultrasonido Portátil                  | Rayos X Portátil DR              | Mindray, GE, Carestream        |
+| Quirófano            | Máquina de Anestesia                  | Torre Laparoscopia 4K            | Mindray WATO, Stryker          |
+| Terapia Respiratoria | Concentrador de O2                    | Nebulizador                      | Inogen, Omron                  |
+| Fisioterapia         | Ondas de Choque                       | Láser Terapéutico Clase IV       | Storz, Chattanooga             |
+| Urgencias            | Desfibrilador bifásico                | Monitor de signos                | ZOLL, Welch Allyn, Mindray     |
+| Hospitalización      | Cama Eléctrica Hill-Rom               | Bomba de Infusión B. Braun       | Hill-Rom, B. Braun             |
+| Laboratorio          | Analizador Hematología                | Centrífuga                       | Mindray, Sysmex, Hamilton Bell |
