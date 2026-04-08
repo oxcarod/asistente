@@ -1755,6 +1755,25 @@ Tubos flexibles con cámara para examinar esófago, estómago, duodeno (gastrosc
 | Olympus GIF-HQ190 / CF-HQ190 | Premium — la óptica que piden los gastroenterólogos |
 | Pentax Medical EC-3890Fi     | Nueva generación con Magnificación                  |
 
+### Distribuidores y Fabricantes — Endoscopía y FNB
+
+**Distribuidores Especializados en Endoscopía**
+
+| Distribuidor               | Especialidad / Marcas                               | Ubicación                         | Teléfono(s)           |
+| -------------------------- | --------------------------------------------------- | --------------------------------- | ---------------------- |
+| **Endomédica S.A. de C.V.** | Uno de los distribuidores más grandes de equipo y accesorios de endoscopía en México | Lomas de Chapultepec (Monte Irazú 189) | 55 4738 8800           |
+| **Salutem Surgical Solutions** | Distribuidores autorizados de **Cook Medical** (línea EchoTip — muy usada en FNB) | Col. Narvarte Oriente (Xochicalco 43) | 55 2834 6061 / 55 7412 2069 |
+| **Medscope Solutions**      | Agujas específicas de FNB (modelo **Trident**)    | —                                 | 55 7474 7166           |
+
+**Fabricantes con Venta Corporativa Directa**
+
+| Fabricante                  | Producto clave              | Ubicación                          | Teléfono        |
+| --------------------------- | -------------------------- | ---------------------------------- | --------------- |
+| **Olympus América de México** | Torres, gastroscopios, colonoscopios | Insurgentes Sur 859, Col. Nápoles | 55 9000 2255   |
+| **Boston Scientific México** | Aguja de FNB **Acquire**   | Zona Santa Fe (CDMX)              | —               |
+
+> **Tip para vendedores:** Si representas a una clínica u hospital, contactar directamente a Olympus o Boston Scientific te da acceso a descuentos por volumen y soporte técnico corporativo. Para productos Cook Medical (EchoTip), Salutem Surgical Solutions es tu punto de contacto autorizado.
+
 ---
 
 ## 7. Terapia Respiratoria y Neumología
