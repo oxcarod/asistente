@@ -14,9 +14,17 @@ asistente/
 ├── MEMORY.md          ← Índice de memorias guardadas
 ├── 100kusd.md         ← Plan estratégico $100K USD (Beracah + LeWangs)
 ├── docs/
+│   ├── varkos-plan.md ← Plan activo Varkos (pricing, niveles, slides)
 │   ├── PLAN.md        ← Plan de sesiones activo
 │   ├── ideas-de-negocio.md
-│   └── frases-para-discursos.md
+│   ├── frases-para-discursos.md
+│   └── ejemplo de un prospecto.json  ← Prospecto de prueba
+├── business/
+│   └── Varkos/
+│       ├── image.jpg        ← Logo Varkos (bronce, griego neoclásico)
+│       └── cover/           ← Mockups de portadas PPTX
+│           ├── bundle.html  ← Abre directo en navegador
+│           └── src/         ← Código fuente React
 ├── health/
 │   └── paleo_recipes.md
 ├── personal/

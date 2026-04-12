@@ -1,0 +1,16 @@
+# varkos-cover — Requisitos
+
+## Archivos que importan
+bundle.html       — Abre directo en navegador (standalone, sin npm)
+src/App.tsx       — Componente React
+src/App.css       — Estilos Harvard
+src/main.tsx      — Entry point
+public/favicon.svg — Favicon
+
+## Para reconstruir (opcional)
+npm install
+npm run dev       (localhost)
+
+## Nota
+El logo se carga desde:
+file:///C:/Users/oxcar/Documents/projects/asistente/business/Varkos/image.jpg
