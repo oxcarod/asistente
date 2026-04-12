@@ -13,6 +13,7 @@ Se están afinando los últimos detalles del sistema. La implementación corre e
 El plan estratégico para los $100K USD está en `C:\Users\oxcar\Documents\projects\asistente\100kusd.md`.
 
 **Flujo de venta Varkos:**
+
 ```
 Carta física (premium) → Si médico te recibe → Presentación PPTX → Resumen PDF para el médico
 ```
@@ -30,6 +31,7 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 **Regla:** No da detalles. Solo teasea que hay ayuda disponible en dos frentes (marketing + equipos). No revela nada que el prospecto pueda usar solo.
 
 **Contenido:**
+
 - Nombre del prospecto personalizado
 - Hook dinero: "Está dejando ir $380K MXN/mes..."
 - Hook urgencia: "Solo 20 espacios disponibles..."
@@ -79,6 +81,7 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 **Propósito:** Documento de referencia rápida. Que el médico tenga todo lo que necesita para tomar la decisión.
 
 **Contenido:**
+
 - Resumen score y posición (1 párrafo)
 - Mejoras rápidas que podría implementar (quick wins vs transformación real)
 - Niveles de servicio N1/N2/N3 con precios en MXN/mes
@@ -95,11 +98,11 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 
 ## Niveles de Servicio (LO QUE SÍ SE COBRA)
 
-| Nivel | Nombre | Incluye | Precio |
-|---|---|---|---|
-| **N1** | Diagnóstico + Monitoreo | Score, ranking, monitoreo mensual, reporte trimestral | $2,000-$5,000 MXN/mes |
-| **N2** | Consultoría (Receta) | N1 + plan de acción detallado, recomendaciones específicas, 2-4 asesorías/mes | $5,000-$15,000 MXN/mes |
-| **N3** | Ejecución Completa | N2 + nosotros lo hacemos: optimización de perfil, campañas de reseñas, contenido, gestión de redes, coordinación de equipos | $15,000-$40,000 MXN/mes |
+| Nivel  | Nombre                  | Incluye                                                                                                                     | Precio                  |
+| ------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **N1** | Diagnóstico + Monitoreo | Score, ranking, monitoreo mensual, reporte trimestral                                                                       | $2,000-$5,000 MXN/mes   |
+| **N2** | Consultoría (Receta)    | N1 + plan de acción detallado, recomendaciones específicas, 2-4 asesorías/mes                                               | $5,000-$15,000 MXN/mes  |
+| **N3** | Ejecución Completa      | N2 + nosotros lo hacemos: optimización de perfil, campañas de reseñas, contenido, gestión de redes, coordinación de equipos | $15,000-$40,000 MXN/mes |
 
 **Contrato:** Mes a mes. Sin mínimo.
 
@@ -114,11 +117,13 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 **Solución:** Plan opcional con garantía de resultados medidos en % de aumento de flujo de pacientes.
 
 **Resultados garantizados:**
+
 - 10% aumento en flujo de pacientes en 30 días (clínicas pequeñas)
 - 15-20% aumento en flujo de pacientes en 30 días (clínicas medianas)
 - Acompañado de: incremento en reseñas Google, engagement en redes
 
 **Qué incluye:**
+
 - Campaña agresiva de generación de reseñas (20-50 reseñas nuevas)
 - Relaunch / apertura flash si aplica
 - Push de redes sociales con contenido de alto engagement
@@ -142,6 +147,7 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 **Foco de venta:** Equipos más fáciles de vender — requieren poca capacitación, sin equipos auxiliares, pocos insumos recurrentes.
 
 **Categorías para los entregables:**
+
 - Imagenología (rayos X, ultrasonido, tomografía, resonancia)
 - Laboratorio clínico
 - Área de emergencias / urgencias
@@ -155,6 +161,7 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 **Mensaje clave:** "Desde un consultorio básico hasta un hospital completo — tenemos todo lo que necesita."
 
 **Modelo de financiamiento:**
+
 - Plazos: 12-36 meses
 - Tasa competitiva
 - El equipo se paga con los ingresos que genera: mientras genera, se cubre la mensualidad. Al terminar de pagar, todo es ganancia pura.
@@ -170,6 +177,7 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 **Los entregables NO se cobran.** Son parte del proceso de venta. Se dan gratis para generar la cita y cerrar el paquete.
 
 **Lo que SÍ se cobra:**
+
 - Paquetes de servicio N1 / N2 / N3 (mensuales, mes a mes)
 - Plan de Alto Desempeño (pago único o integrado en N3)
 
@@ -186,18 +194,18 @@ Carta física (premium) → Si médico te recibe → Presentación PPTX → Resu
 
 ## Resumen de Conceptos Clave
 
-| Concepto | Detalle |
-|---|---|
-| Empresa | Varkos (Strategic Advice) |
-| Logo | Ya existe |
-| Flujo | Carta → Presentación → Resumen → Cerrar N1/N2/N3 |
-| Entregables | Gratis (no se cobran) |
-| Se cobra | N1 ($2k-$5k/mes), N2 ($5k-$15k/mes), N3 ($15k-$40k/mes), Plan Alto Desempeño ($8k-$20k) |
-| Contrato | Mes a mes, sin mínimo |
-| Equipos | Beracah (~10,000 productos), financiamiento 12-36 meses |
-| Hook dinero | "$380K MXN/mes dejando ir oportunidad" |
-| Hook urgencia | "Solo 20 espacios este mes" |
-| Regla de oro | Nunca revelar el CÓMO — solo el QUÉ y el CUÁNTO |
+| Concepto      | Detalle                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------- |
+| Empresa       | Varkos (Strategic Advice)                                                               |
+| Logo          | Ya existe                                                                               |
+| Flujo         | Carta → Presentación → Resumen → Cerrar N1/N2/N3                                        |
+| Entregables   | Gratis (no se cobran)                                                                   |
+| Se cobra      | N1 ($2k-$5k/mes), N2 ($5k-$15k/mes), N3 ($15k-$40k/mes), Plan Alto Desempeño ($8k-$20k) |
+| Contrato      | Mes a mes, sin mínimo                                                                   |
+| Equipos       | Beracah (~10,000 productos), financiamiento 12-36 meses                                 |
+| Hook dinero   | "$380K MXN/mes dejando ir oportunidad"                                                  |
+| Hook urgencia | "Solo 20 espacios este mes"                                                             |
+| Regla de oro  | Nunca revelar el CÓMO — solo el QUÉ y el CUÁNTO                                         |
 
 ---
 

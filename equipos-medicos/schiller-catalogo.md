@@ -16,10 +16,11 @@ type: reference
 **Email:** info@schilleramericas.com
 **Teléfono:** +52 1 56 1545 8856
 **Colores de marca:**
+
 - Rojo: #d61031
 - Azul oscuro: #004a73
 - Amarillo: #fedd00
-**Redes sociales:** Facebook, Instagram, YouTube, LinkedIn
+  **Redes sociales:** Facebook, Instagram, YouTube, LinkedIn
 
 ---
 
@@ -34,29 +35,34 @@ Los electrocardiógrafos SCHILLER son el corazón del catálogo. Destacan por fr
 #### Modelos
 
 **CARDIOVIT AT-1 G2**
+
 - Electrocardiógrafo básico
 - Usado también en medicina veterinaria (Dr. Christian Valenzuela, MVZ Esp, Guadalajara — cardiólogo veterinario)
 - Compatible con sensor ultrasónico SpiroScout para añadir espirometría
 - Frecuencia de muestreo: 32,000 Hz
 
 **CARDIOVIT AT-102 G2**
+
 - Electrocardiógrafo avanzado
 - Pantalla integrada
 - Interpretación automática de ECG
 - Compatible con módulos de espirometría
 
 **CARDIOVIT AT-180**
+
 - Electrocardiógrafo de gama media-alta
 - Puerto USB para transferencia de datos
 - Pantalla a color
 
 **CARDIOVIT FT-1**
+
 - Electrocardiógrafo portátil
 - Diseñado para uso en terreno, consultorios móviles y hospitales
 - Batería recargable de larga duración
 - Conexión Wi-Fi opcional
 
 **CARDIOVIT CS-200 Excellence**
+
 - Ergoespirómetro de alto volumen
 - Diseñado para laboratorios con alto flujo de pacientes
 - Funciones que ahorran tiempo y aumentan productividad
@@ -64,16 +70,19 @@ Los electrocardiógrafos SCHILLER son el corazón del catálogo. Destacan por fr
 - Ideal para pruebas de esfuerzo con medición de VO2 máx
 
 **CARDIOVIT CS-200 Office**
+
 - Ergoespirómetro para consultorio
 - Versión compacta del CS-200 Excellence
 - Diseñado para consultorios privados y clínicas pequeñas
 - Combina ECG + espirometría en un solo equipo
 
 **CARDIOVIT CS-200**
+
 - Ergoespirómetro estándar
 - Sinónimo del CS-200 Excellence en configuración básica
 
 #### Especificaciones técnicas generales de ECG SCHILLER
+
 - Frecuencia de muestreo: hasta 32,000 Hz (vs. 500-1,000 Hz típico)
 - Frecuencia cardíaca: 30-300 lpm
 - Interpretación computarizada integrada
@@ -87,6 +96,7 @@ Los electrocardiógrafos SCHILLER son el corazón del catálogo. Destacan por fr
 ### 2. Espirometría / Función Pulmonar
 
 #### PowerCube Body+
+
 - **Tipo:** Cabina pletismográfica
 - **Sensor ultrasónico** de flujo — no requiere calibración
 - Volumen tidal y capacidad vital
@@ -94,12 +104,14 @@ Los electrocardiógrafos SCHILLER son el corazón del catálogo. Destacan por fr
 - Alta precisión en mediciones de bajo flujo
 
 #### SpiroCube
+
 - **Tipo:** Cabina pletismográfica compacta
 - Menor footprint que PowerCube
 - Pantalla táctil integrada
 - Software de interpretación de pruebas pulmonares
 
 #### SpiroScout SP Plus
+
 - **Tipo:** Espirómetro ultrasónico
 - Se integra directamente al electrocardiógrafo SCHILLER (AT-1 G2, AT-102 G2)
 - Detecta flujos pulmonares muy bajos
@@ -108,6 +120,7 @@ Los electrocardiógrafos SCHILLER son el corazón del catálogo. Destacan por fr
 - Parámetros: FVC, FEV1, FEV1/FVC, PEF, FEF25-75%, etc.
 
 #### Parámetros pulmonares medidos
+
 - **FVC** (Capacidad Vital Forzada)
 - **FEV1** (Volumen Espiratorio Forzado en el primer segundo)
 - **FEV1/FVC** (índice de Tiffeneau)
@@ -124,6 +137,7 @@ Los electrocardiógrafos SCHILLER son el corazón del catálogo. Destacan por fr
 Ergómetros compatibles con todos los equipos de ECG de esfuerzo SCHILLER.
 
 #### TMX-428 — Caminadora para pruebas de esfuerzo
+
 - **Tipo:** Cinta de correr médica
 - Diseño robusto, probado y confiable
 - **Capacidad de peso del paciente:** hasta 227 kg
@@ -135,6 +149,7 @@ Ergómetros compatibles con todos los equipos de ECG de esfuerzo SCHILLER.
 - Bajo nivel de vibración
 
 #### ERG 910 PLUS — Bicicleta ergométrica
+
 - Bicicleta de pedal para pruebas de esfuerzo
 - Pantalla integrada que muestra velocidad, carga, frecuencia cardíaca
 - Compatible con todos los ECG de esfuerzo SCHILLER
@@ -151,6 +166,7 @@ Ergómetros compatibles con todos los equipos de ECG de esfuerzo SCHILLER.
 Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 
 #### CARDIOVIT CS-200 Excellence
+
 - Análisis de gases en tiempo real
 - Medición de VO2 máx, umbral ventilatorio, economía de carrera
 - Diseñado para alto volumen de trabajo
@@ -158,11 +174,13 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 - Ideal para: cardiología deportiva, rehabilitación cardiaca, evaluación preoperatoria
 
 #### CARDIOVIT CS-200 Office
+
 - Versión para consultorio del CS-200
 - Ergoespirómetro compacto
 - Ideal para especialistas individuales
 
 #### Protocolos de prueba disponibles
+
 - Bruce (estándar en treadmill)
 - Naughton
 - Balke-Ware
@@ -175,12 +193,14 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 ### 5. Monitoreo Ambulatorio
 
 #### Soluciones de Holter
+
 - Grabadoras de 24-72 horas (mínimo)
 - Detección automática de arritmias
 - Software de análisis avanzado
 - Conexión a LifeDataNet G2
 
 #### Monitoreo de Presión Arterial (MAPA)
+
 - Dispositivos de presión arterial ambulatory
 - Reportes de 24 horas con perfiles día/noche
 - Detección de hipertensión de bata blanca y enmascarada
@@ -201,6 +221,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 ### 7. Emergencias / Cardioprotección
 
 #### DEA FRED PA-1
+
 - **Tipo:** Desfibrilador Externo Automático (AED)
 - **Energía de descarga:** hasta 200J (adultos)
 - **Tipo de onda:** Bifásica Exponencial Truncada (BTE)
@@ -213,6 +234,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 - **Aplicaciones:** escuelas, empresas, aeropuertos, estadios, hoteles, cualquier lugar público
 
 #### DEA FRED PA-1 Online
+
 - Versión conectada del FRED PA-1
 - **Plataforma:** LifeDataNet G2 (monitoreo y seguimiento)
 - Transmisión automática de eventos en tiempo real
@@ -223,6 +245,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 - Ideal para: empresas con protocolo de seguridad, cadenas hoteleras, instituciones gubernamentales
 
 #### DEA FRED PA-1 Trainer
+
 - Trainer para capacitación
 - Simula todos los escenarios de RCP y desfibrilación
 - Disponible en todos los idiomas que ofrece FRED PA-1
@@ -231,6 +254,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 - Ideal para: cursos de RCP, capacitación corporativa, simulacros
 
 #### Cardio First Angel
+
 - **Tipo:** Asistente de RCP (no es un DEA)
 - Guía al reanimador en los 3 parámetros críticos:
   1. **Posición correcta** — dónde colocar las manos
@@ -244,6 +268,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 - **Aplicaciones:** oficinas, vehículos, hogares, lugares públicos
 
 #### Easy Pulse — RCP Mecánica Continua
+
 - **Tipo:** Dispositivo de RCP mecánica
 - Genera compresiones torácicas automáticas y continuas
 - **Ideal para:**
@@ -260,6 +285,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 ### 8. Rehabilitación Cardiaca
 
 #### Central de Rehabilitación Sana Sprint Plus
+
 - **Tipo:** Sistema de gestión de rehabilitación cardiaca grupal
 - Diseñado para sesiones de rehabilitación cardiaca en grupo
 - **Capacidades:**
@@ -276,6 +302,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 ### 9. IT Médica / Software
 
 #### LifeDataNet G2
+
 - **Tipo:** Plataforma de software en la nube
 - Monitoreo y seguimiento de dispositivos conectados
 - Transmisión automática de eventos desde DEAs y monitores
@@ -287,6 +314,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 - **Compatible con:** FRED PA-1 Online, monitores de signos vitales, Holter
 
 #### DS-20 — Estación Diagnóstica
+
 - Estación de trabajo para diagnóstico cardiológico
 - Pantalla de alto rendimiento
 - Software de interpretación de ECG
@@ -295,6 +323,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 - Compatible con equipos SCHILLER
 
 #### Suite de Software ECG
+
 - Software de interpretación computarizada de ECG
 - Base de datos de pacientes
 - Generación de reportes en PDF
@@ -305,6 +334,7 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 ### 10. Otros Equipos
 
 #### Dosímetro GANSHORN ProvoX
+
 - **Fabricante:** GANSHORN (marca representada por SCHILLER)
 - **Tipo:** Dosímetro de aire para diagnóstico broncodilatador
 - Mide la respuesta broncodilatadora a fármacos
@@ -316,17 +346,17 @@ Combina ECG de esfuerzo + análisis de intercambio gaseoso (VO2, VCO2).
 
 ## Casos de Uso por Especialidad
 
-| Especialidad | Equipos relevantes |
-|---|---|
-| **Cardiología general** | CARDIOVIT AT-102 G2, AT-180, AT-1 G2, FT-1 |
-| **Cardiología deportiva / ejercicio** | CS-200 Excellence, TMX-428, ERG 910 PLUS |
-| **Laboratorio de función pulmonar** | PowerCube Body+, SpiroCube, SpiroScout, ProvoX |
-| **Emergencias / urgencias** | FRED PA-1, FRED PA-1 Online, Cardio First Angel, Easy Pulse |
-| **Rehabilitación cardiaca** | Sana Sprint Plus, TMX-428, ERG 910 PLUS, CS-200 |
-| **Monitoreo hospitalario** | Monitores multiparamétricos, LifeDataNet G2 |
-| **Consultorio privado** | AT-1 G2 + SpiroScout, CS-200 Office, FT-1 |
-| **Veterinaria** | CARDIOVIT AT-1 G2 |
-| **Cardioprotección corporativa / pública** | FRED PA-1 Online, LifeDataNet G2 |
+| Especialidad                               | Equipos relevantes                                          |
+| ------------------------------------------ | ----------------------------------------------------------- |
+| **Cardiología general**                    | CARDIOVIT AT-102 G2, AT-180, AT-1 G2, FT-1                  |
+| **Cardiología deportiva / ejercicio**      | CS-200 Excellence, TMX-428, ERG 910 PLUS                    |
+| **Laboratorio de función pulmonar**        | PowerCube Body+, SpiroCube, SpiroScout, ProvoX              |
+| **Emergencias / urgencias**                | FRED PA-1, FRED PA-1 Online, Cardio First Angel, Easy Pulse |
+| **Rehabilitación cardiaca**                | Sana Sprint Plus, TMX-428, ERG 910 PLUS, CS-200             |
+| **Monitoreo hospitalario**                 | Monitores multiparamétricos, LifeDataNet G2                 |
+| **Consultorio privado**                    | AT-1 G2 + SpiroScout, CS-200 Office, FT-1                   |
+| **Veterinaria**                            | CARDIOVIT AT-1 G2                                           |
+| **Cardioprotección corporativa / pública** | FRED PA-1 Online, LifeDataNet G2                            |
 
 ---
 
