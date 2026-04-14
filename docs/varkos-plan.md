@@ -1,4 +1,4 @@
-# Plan Varkos — Actualización 2026-04-12
+# Plan Varkos — Actualización 2026-04-13
 
 > Sesión 2 completa. Modelo de pricing corregido y confirmado.
 
@@ -7,35 +7,52 @@
 ## Modelo de Negocio — La lógica central
 
 ```
-Marketing = cómo entrar por la puerta
-Equipo médico = dónde está el dinero ($100K USD)
+Gratis → Inteligencia → Sesión GBP → N1/N2/N3
+  ↓          ↓              ↓
+ puerta    conocernos   proponer equipo
 ```
 
-El marketing es la puerta de entrada. El equipo (Beracah/LeWangs) es el negocio real. No son dos ofertas paralelas — es una sola: llegás por marketing, te quedas por equipo.
+El primer contacto es gratis — es la puerta de entrada. La primera presentación es para que el prospecto nos conozca, veamos qué tienen, y recolectemos inteligencia. La segunda presentación ya revela más datos (que tenemos del análisis). La sesión de GBP es donde ejecutamos y donde se genera la propuesta de equipo con panorama real.
 
 ---
 
-## Modelo de Pricing — CONFIRMADO (precio fijo)
+## Modelo de Pricing — CONFIRMADO
 
-### N1 — "Qué está mal"
-**$499 MXN — pago único**
+### Presentación 1 (Gratis)
+- **Puerta de entrada** — sin costo
+- Intelligence gather: mapa de servicios reales, perfil de pacientes, competencia, equipamiento actual
+- 3 quick wins priorizados con guía de ejecución paso a paso
+- Mentión de que existe la opción de una segunda presentación con hallazgos más profundos
+- **Sin propuesta de equipo** — no conocemos el terreno todavía
+
+### Presentación 2 ($499 — único)
+- Revelamos el análisis completo: score, fortalezas, 3 problemas más costosos
+- Ya tenemos panorama real — mencionamos 1-2 oportunidades de equipo en términos generales
+- Introducimos la sesión de GBP como siguiente paso
+
+### Sesión de GBP
+- **Precio normal: $1,500 MXN**
+- **Precio primer mes: $499 MXN** (incentivo por cerrar en la primera conversación)
+- Acceso temporal a su Google Business Profile
+- Ejecutamos hasta 2 cambios in-situ
+- Sesión de 60 min
+- **Sirve para propuesta de equipo precisa** — ya conocemos el terreno real
+
+### N1 — Monitoreo mensual
+**$499 MXN/mes — mes a mes**
 
 **Incluye:**
-- Reunión presencial o videollamada (60 min)
-- Resumen de 2 páginas con hallazgos clave
-- Los 3 problemas más costosos explicados con claridad
-- 3 quick wins ejecutados por nosotros en la misma sesión
+- Monitoreo mensual: score, alertas, nuevas reseñas
+- 1 asesoría/mes (30 min)
+- Reporte resumido (1 página)
+- Acceso a la plataforma de score (el cliente consulta cuando quiere)
+- **NO incluye ejecución** — eso se cobra aparte o escala a N2
 
-**NO incluye:**
-- El reporte completo de auditoría (eso se queda con nosotros — es nuestra retención)
-- Análisis de competidores
-- Lista completa de acciones priorizadas
-
-**Conversación de equipo desde N1:** Mencionar 1 equipo específico que les conviene. Solo dato, sin pressure.
+**Conversación de equipo en N1:** Cada asesoría incluye 1 oportunidad de equipo. Si hay interés, cotización.
 
 ---
 
-### N2 — "Cómo lo resuelves"
+### N2 — Ejecución mensual
 **$3,500 MXN/mes — mes a mes**
 
 **Incluye:**
@@ -71,8 +88,8 @@ El marketing es la puerta de entrada. El equipo (Beracah/LeWangs) es el negocio 
 ## Reglas clave del modelo
 
 1. **El reporte completo NO se entrega nunca** — es nuestra retención. El cliente recibe un resumen de 2 páginas.
-2. **Equipo médico se menciona en TODOS los niveles** — desde N1 como dato útil, escalando hasta propuesta formal en N3.
-3. **Cada conversación es oportunidad de equipo** — no hay momento en que dejemos de hablar de equipos.
+2. **Equipo médico: inteligencia en N1, propuesta en sesión de GBP** — sin panorama real no hay propuesta de equipo.
+3. **La sesión de GBP es la verdadera puerta de entrada al equipo** — ahí ya conocemos sus servicios, espacio, pacientes y podemos proponer con confianza.
 4. **El mark-up en equipo es la fuente principal de revenue** — los $100K USD se hacen en Beracah/LeWangs, no en los monthly retainers.
 
 ---
@@ -81,9 +98,12 @@ El marketing es la puerta de entrada. El equipo (Beracah/LeWangs) es el negocio 
 
 | Si el cliente... | Nosotros... |
 |---|---|
-| No pasa de N1 | Mantener contacto, seguir mencionando equipo |
-| Cancela N2 | Ofrecer regresar por $499, ejecutar 3 quick wins nuevos |
-| Cancela N3 | Bajar a N2, mantener conversación de equipo activa |
+| Se queda solo en N1 | Monitoreo pasivo, seguir en contacto, oferta GBP cuando esté listo |
+| Quiere escalar a N2/N3 | Aplicar la lógica: entre más profundo, más datos para propuesta de equipo |
+| Quiere solo sesión de GBP (sin N1/N2/N3) | Vender GBP standalone, mínimo $499 |
+| Cancela N2 | Ofrecer regresar por N1 ($499), sesión GBP con descuento |
+| Cancela N3 | Bajar a N2, mantener conversación de inteligencia activa |
+| Pasa a GBP y tenemos panorama | Hacer propuesta de equipo con datos reales |
 | Compra equipo | Seguir monitoreando, generar próxima oportunidad de equipo |
 
 ---
@@ -95,6 +115,7 @@ El marketing es la puerta de entrada. El equipo (Beracah/LeWangs) es el negocio 
 3. **Cómo presentar el financiamiento** (12-36 meses) — ¿mostramos números o solo mencionamos?
 4. **Slides 5-9:** Detallar cada nivel en la presentación PPTX
 5. **Carta:** ¿Mencionamos precio de N1 en la carta o no?
+6. **Slide de sesión de GBP:** Integrar como parte del flujo N1 → GBP → propuesta equipo
 
 ---
 
