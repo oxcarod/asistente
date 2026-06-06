@@ -6,6 +6,7 @@
 |---|---|
 | [flujo-bot.md](./flujo-bot.md) | Flujo del bot de WhatsApp, respuestas, gestión de pedidos |
 | [procesamiento-medios.md](./procesamiento-medios.md) | Scripts para edición automática de fotos y videos |
+| [flyers/](./flyers/) | Flyers de marketing por nicho (cumple, bodas, XV, Harry Potter, navidad, aniversarios, viajes, collage) |
 | [INDICE.md](./INDICE.md) | Este archivo |
 
 ## Estado actual

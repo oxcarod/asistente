@@ -15,5 +15,11 @@
 - [equipos-medicos/luabfe-catalogo.md](equipos-medicos/luabfe-catalogo.md) — Catálogo LUABFE: ventiladores mecánicos, camas UCI, camillas, bombas infusión, ECG, monitores signos vitales, mobiliario médico, mesas cirugía
 - [equipos-medicos/medikrom-catalogo.md](equipos-medicos/medikrom-catalogo.md) — Catálogo MEDIKROM 2026: centrífugas, agitadores, baño María, destiladores, incubadoras, analizadores sangre (química, hematología, coagulación, electrolitos, blood gas), espectrofotómetros, balanzas, cabinas flujo, desintegradores
 
+## business/marcos-digitales/
+- [business/marcos-digitales/INDICE.md](business/marcos-digitales/INDICE.md) — Negocio marco digital acrílico 5" ($1,299 MXN): producto, flujo del bot, procesamiento de medios, estado
+- [business/marcos-digitales/flujo-bot.md](business/marcos-digitales/flujo-bot.md) — Flujo del bot de WhatsApp, mensajes clave, métodos de pago (Mercado Pago CLABE 722969010279883551, Oscar Vazquez), gestión de pedidos
+- [business/marcos-digitales/procesamiento-medios.md](business/marcos-digitales/procesamiento-medios.md) — Scripts Python (Pillow+ffmpeg) y comandos ffmpeg directos para encuadrar fotos/videos a 480x860
+- [business/marcos-digitales/flyers/](business/marcos-digitales/flyers/) — Flyers de marketing por nicho (cumple, bodas, XV, Harry Potter, navidad, aniversarios, viajes, collage)
+
 ## entertainment/
 - [entertainment/watchlist.md](entertainment/watchlist.md) — Películas y series por ver (18 películas + 6 series)
