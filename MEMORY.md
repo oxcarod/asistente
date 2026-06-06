@@ -20,6 +20,7 @@
 - [business/marcos-digitales/flujo-bot.md](business/marcos-digitales/flujo-bot.md) — Flujo del bot de WhatsApp, mensajes clave, métodos de pago (Mercado Pago CLABE 722969010279883551, Oscar Vazquez), gestión de pedidos
 - [business/marcos-digitales/procesamiento-medios.md](business/marcos-digitales/procesamiento-medios.md) — Scripts Python (Pillow+ffmpeg) y comandos ffmpeg directos para encuadrar fotos/videos a 480x860
 - [business/marcos-digitales/flyers/](business/marcos-digitales/flyers/) — Flyers de marketing por nicho (cumple, bodas, XV, Harry Potter, navidad, aniversarios, viajes, collage)
+- [business/marcos-digitales/guiones-videos.md](business/marcos-digitales/guiones-videos.md) — Guiones de 8 videos publicitarios cortos (10-15s, 9:16): escena por escena, copy, hashtags, specs técnicas, checklist de producción
 
 ## entertainment/
 - [entertainment/watchlist.md](entertainment/watchlist.md) — Películas y series por ver (18 películas + 6 series)

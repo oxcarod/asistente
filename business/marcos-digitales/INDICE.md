@@ -7,6 +7,7 @@
 | [flujo-bot.md](./flujo-bot.md) | Flujo del bot de WhatsApp, respuestas, gestión de pedidos |
 | [procesamiento-medios.md](./procesamiento-medios.md) | Scripts para edición automática de fotos y videos |
 | [flyers/](./flyers/) | Flyers de marketing por nicho (cumple, bodas, XV, Harry Potter, navidad, aniversarios, viajes, collage) |
+| [guiones-videos.md](./guiones-videos.md) | Guiones de 8 videos publicitarios (10-15 seg, 9:16) con escena por escena, copy, hashtags y specs técnicas |
 | [INDICE.md](./INDICE.md) | Este archivo |
 
 ## Estado actual
